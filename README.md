@@ -10,7 +10,7 @@
 
 <h2>1. Introdução</h2>
 
-### Aqui eu resolvi colocar as minhas resoluções de desafios do curso de Algoritmo e lógica de programação do Curso em vídeo do professor Gustavo Guanabara. Eu fiz alguns comentários nas minhas resoluções dos desafios, e alguns eu fiz resoluções similares aos do professor Guanabara, principalmente por que eu acompanhei todos os vídeos do curso dele e lá tem as resoluções de alguns desses exercícios também. Nesse repositório, pretendo principalmente armazenar a minha versão de resposta dos desafios e minha experiência aprendendo lógica de programação nesse curso maravilhoso.
+### Aqui eu resolvi colocar as minhas resoluções de desafios do curso de Algoritmo e lógica de programação do [Curso em vídeo](www.cursoemvideo.com) do professor Gustavo Guanabara. Eu fiz alguns comentários nas minhas resoluções dos desafios alem disso, alguns desses exercícios o professor resolveu em vídeo, mas eu coloquei aqui também. Nesse repositório, pretendo principalmente armazenar a minha versão de resposta dos desafios e minha experiência aprendendo lógica de programação nesse curso maravilhoso.
 ### Site do Curso: [Curso de algoritmo com Portugol](www.cursoemvideo.com/course/curso-de-algoritmos/)
 ### Site da IDE que eu utilizei pra fazer os exercícios: [Visualg](https://sourceforge.net/projects/visualg30/)
 #### Obs.: Eu utilizei a versão 3.0.5 
