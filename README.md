@@ -47,27 +47,27 @@
 
 <!--Exercício 01 da aula 14-->
 <h3>14.1 - Total de Pares</h3>
-<h4>Resumo: O Algoritmo deve armazenar o nome e as duas primeiras notas de um aluno em vetores e, logo após, ele deve calcular a média dessas duas notas. Em seguida, calcular a média da turma e exibir a média da turma e os nomes dos alunos que obtiveram notas acima dessa média na tela.</h4>
+<h4>Resumo: Algoritmo que pede ao usuário que digite 7 números e armazena cada um deles em um espaço de um vetor. Em seguida, ele deve verificar se cada número é par e adcionar 1 a variável “Totp” se o número for par. Por fim, ele deve exibir o total de números pares digitados</h4>
 
-* [Minha resolução]()
+* [Minha resolução](https://github.com/DevNicolask/Portugol/blob/main/Exercicios/Aula%2014%20-%20Exercicios/TESTEPARVETOR.ALG)
 
 <!--Exercício 02 da aula 14-->
 <h3>14.2 - Listagem de alunos.</h3> 
-<h4>Resumo: Algoritmo que pede ao usuário que digite 7 números e armazena cada um deles em um espaço de um vetor. Em seguida, ele deve verificar se cada número é par e adcionar 1 a variável “Totp” se o número for par. Por fim, ele deve exibir o total de números pares digitados </h4>
+<h4>Resumo: O Algoritmo deve armazenar o nome e as duas primeiras notas de um aluno em vetores e, logo após, ele deve calcular a média dessas duas notas. Em seguida, calcular a média da turma e exibir a média da turma e os nomes dos alunos que obtiveram notas acima dessa média na tela.</h4>
 
-* [Minha resolução]()
+* [Minha resolução](https://github.com/DevNicolask/Portugol/blob/main/Exercicios/Aula%2014%20-%20Exercicios/LISTAGEMDALUNOS.ALG)
 
 <!--Exercício 03 da aula 14-->
 <h3>14.3 - Só com "C". </h3> 
 <h4>Resumo: Algoritmo que pede ao usuário que digite 10 nomes e mostra na tela uma listagem com nomes que comecem com C </h4>
 
-* [Minha resolução]()
+* [Minha resolução](https://github.com/DevNicolask/Portugol/blob/main/Exercicios/Aula%2014%20-%20Exercicios/SOPODEC.ALG)
 
 <!--Exercício 04 da aula 14-->
 <h3>14.4 - Ordena Vetor </h3> 
 <h4>Resumo: O algoritmo deve pedir ao usuário 10 valores e armazena-los em um vetor. Em seguida, chamar um procedimento que ordena os valores do vetor. O procedimento  deve utilizar dois loopings aninhados para comparar cada elemento do vetor com todos os outros elementos e trocar os elementos de posição se necessário. No final o vetor ordenado é exibido na tela </h4>
 
-* [Minha resolução]()
+* [Minha resolução](https://github.com/DevNicolask/Portugol/blob/main/Exercicios/Aula%2014%20-%20Exercicios/ORDENAVETOR.ALG)
 
 <!--Aula 15 Desafios!-->
 <h3>xii Aula 14 (Desafios) </h3>
