@@ -76,20 +76,20 @@
 <h3>14.5 - Torneio de Futebol</h3> 
 <h4>Resumo: Algoritmo para solicitar o nome de (três/quatro) times e, em seguida, exibir uma tabela de partidas com os nomes dos times. O programa não prescisa armazenar os resultados das partidas, apenas exibir a tabela de partidas possíveis.</h4>
 
-* [Minha resolução - 3 times]()
-* [Minha resolução - 4 times]()
+* [Minha resolução - 3 times](https://github.com/DevNicolask/Portugol/blob/main/Exercicios/Aula%2014%20-%20Exercicios/TORNEIOFUTEBOL.ALG)
+* [Minha resolução - 4 times](https://github.com/DevNicolask/Portugol/blob/main/Exercicios/Aula%2014%20-%20Exercicios/TORNEIOFUTEBOLCOM4TIMES.ALG)
 
 <!--Desafio 02 da aula 14-->
 <h3>14.6 - Corretor de Provas</h3> 
 <h4>Resumo: Algoritmo que ajude a corrigir provas. Ele deve pedir ao usuário que digite o gabarito de correção para 5 questões e depois pedir o cadastro de 3 alunos e seus respectivos gabaritos. O programa deve calcular a média da turma e mostra na tela a lista das notas dos alunos e a média da turma.</h4>
 
-* [Minha resolução]()
+* [Minha resolução](https://github.com/DevNicolask/Portugol/blob/main/Exercicios/Aula%2014%20-%20Exercicios/CORRETORDEPROVAS.ALG)
 
 <!--Desafio 03 da aula 14-->
 <h3>14.7 - Cadeiras de um cinema</h3> 
 <h4>Resumo: Faça um Algoritmo que simule umaa reserva de assentos em uma sala de cinema. O programa deve começar com um vetor de 10 cadeiras vazio. Um procedimento deve escrever o menu de escolha de cadeiras no topo da tela. O algoritmo deve pedir ao usuário o número da cadeira que ele quer comprar. Se o usuário escolher uma cadeira ocupada, uma mensagem de erro deverá ser exibida. O programa deverá continuar à pedir ao usuário para escolher uma cadeira, até que o usuário decida não escolher mais então o  algoritmo finaliza.</h4>
 
-* [Minha resolução]()
+* [Minha resolução](https://github.com/DevNicolask/Portugol/blob/main/Exercicios/Aula%2014%20-%20Exercicios/RESERVADECINEMA.ALG)
 
 <!--Aula 15-->
 <h3>xiii - Aula 15 (Exercícios da aula prática)</h3>
