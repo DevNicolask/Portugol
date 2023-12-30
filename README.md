@@ -72,15 +72,22 @@
 <!--Aula 15 Desafios!-->
 <h3>xii Aula 14 (Desafios) </h3>
 
-<!--Exercício 05 da aula 14-->
-<h3>14.5 - </h3> 
-<h4>Resumo: </h4>
+<!--Desafio 01 da aula 14-->
+<h3>14.5 - Torneio de Futebol</h3> 
+<h4>Resumo: Algoritmo para solicitar o nome de (três/quatro) times e, em seguida, exibir uma tabela de partidas com os nomes dos times. O programa não prescisa armazenar os resultados das partidas, apenas exibir a tabela de partidas possíveis.</h4>
+
+* [Minha resolução - 3 times]()
+* [Minha resolução - 4 times]()
+
+<!--Desafio 02 da aula 14-->
+<h3>14.6 - Corretor de Provas</h3> 
+<h4>Resumo: Algoritmo que ajude a corrigir provas. Ele deve pedir ao usuário que digite o gabarito de correção para 5 questões e depois pedir o cadastro de 3 alunos e seus respectivos gabaritos. O programa deve calcular a média da turma e mostra na tela a lista das notas dos alunos e a média da turma.</h4>
 
 * [Minha resolução]()
 
-<!--Exercício 06 da aula 14-->
-<h3>14.6 - </h3> 
-<h4>Resumo: </h4>
+<!--Desafio 03 da aula 14-->
+<h3>14.7 - Cadeiras de um cinema</h3> 
+<h4>Resumo: Faça um Algoritmo que simule umaa reserva de assentos em uma sala de cinema. O programa deve começar com um vetor de 10 cadeiras vazio. Um procedimento deve escrever o menu de escolha de cadeiras no topo da tela. O algoritmo deve pedir ao usuário o número da cadeira que ele quer comprar. Se o usuário escolher uma cadeira ocupada, uma mensagem de erro deverá ser exibida. O programa deverá continuar à pedir ao usuário para escolher uma cadeira, até que o usuário decida não escolher mais então o  algoritmo finaliza.</h4>
 
 * [Minha resolução]()
 
@@ -123,14 +130,14 @@ A soma dos valores da diagonal principal, o produto dos valores da segunda linha
 <!--Aula 15 Desafios!-->
 <h3>xiv - Aula 15 (Desafios) </h3>
 
-<!--Exercício 05 da aula 15-->
+<!--Desafio 01 da aula 15-->
 <h3>15.5 - Dissecando uma matriz</h3> 
 <h4>Resumo: O algoritmo deve perguntar ao usuário 16 números pra armazenar em uma matriz 4x4. Após esse processo, ele deve mostrar um menú com 5 opções; 
 [1] - Mostrar a matriz, [2] - mostra a diagonal principal, [3] - Mostrar o triângulo inferior, [4] - Mostrar o triângulo superior e [5] - Sair(fecha o programa). Dependendo do número que o usuário escolher o  procedimento será realizado conforme o escrito no menú.</h4>
 
 * [Minha resolução](https://github.com/DevNicolask/Portugol/blob/main/Exercicios/Aula%2015%20-%20Exercicios/DISSECANDOMATRIZES.ALG)
 
-<!--Exercício 06 da aula 15-->
+<!--Desafioo 02 da aula 15-->
 <h3>15.6 - Jogo da Velha</h3> 
 <h4>Resumo: O jogo deve ter um tabuleiro 3x3 e mostrar dentro de cada quadrado o número correspondente da casa do tabuleiro. Quando o primeiro jogador, de símbolo [X], jogar, o algoritmo deve receber o número da casa e substituir o número pelo símbolo do jogador 1. Se o jogador jogar em uma casa já jogada anteriormente, o algoritmo deve mostrar uma mensagem de erro e pedir para o jogador jogar novamente. O jogo deve continuar alternando entre jogador 1 [X] e jogador 2 [O] até que um dos dois ganhe ou dê "velha". O algoritmo deve ser capaz de reconhecer os dois casos e finalizar caso uma das situações seja verdadeira.</h4>
 
