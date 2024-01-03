@@ -1,5 +1,5 @@
 <!--Título do repositório-->
-# <center>Desafios do curso de Algoritmo e Lógica de programação do Curso em Vídeo</center>
+# <center>Desafios do curso de Algoritmo e Lógica de programação com Portugol do Curso em Vídeo</center>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt = linha ><br><br>
 <div align="center">
 <!--Links Nick-->
