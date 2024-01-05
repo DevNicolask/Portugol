@@ -50,31 +50,32 @@
 <h3>13.1 - Soma Função</h3>
 <h4>Resumo: O algoritmo deve solicitar ao usuário dois valores para realizar uma soma. Por fim, o programa deve exibir o resultado da soma na tela.</h4>
 
-* [Minha resolução](x)
+* [Minha resolução](https://github.com/DevNicolask/Portugol/blob/main/Exercicios/Aula%2013%20-%20Exerc%C3%ADcios/SOMAFUNCAO.ALG)
 
 <!--Exercício 02 da aula 13-->
 <h3>13.2 - Par ou Impar Função</h3>
 <h4>Resumo: O algoritmo deve verificar se um número passado como parâmetro é par ou ímpar. Uma função deve utilizar o operador módulo para verificar se o número é divisível por 2. Se for, a função retorna “PAR”. Caso contrário, a função deverá retornar “IMPAR”. No final, o programa deverá mostrar na tela se o número digitado é par ou ímpar.</h4>
 
-* [Minha resolução](x)
+* [Minha resolução](https://github.com/DevNicolask/Portugol/blob/main/Exercicios/Aula%2013%20-%20Exerc%C3%ADcios/PAROUIMPARFUNCAO.ALG)
 
 <!--Exercício 03 da aula 13-->
 <h3>13.3 - Fatorial Função</h3>
 <h4>Resumo: O algoritmo deve calcular o fatorial de um número inteiro. O fatorial de um número é representado pelo símbolo “!” e é calculado multiplicando um número por todos os seus antecessores até chegar em 1. O algoritmo deve começar pedindo ao usuário que digite um valor inteiro. Por fim, o programa deverá mostrar o valor do fatorial na tela. Por exemplo, se o usuário digitar 5, o programa mostrará “O fatorial de 5 é 120".</h4>
 
-* [Minha resolução](x)
+* [Minha resolução](https://github.com/DevNicolask/Portugol/blob/main/Exercicios/Aula%2013%20-%20Exerc%C3%ADcios/FATORIALFUNCAO.ALG)
 
 <!--Exercício 04 da aula 13-->
 <h3>13.4 - Sequência De Fibonacci com Função</h3>
 <h4>Resumo: O algoritmo deve gerar os primeiros 15 números da sequência de Fibonacci. A sequência de Fibonacci é uma sequência de números em que cada número é a soma dos dois números anteriores. Os  números da sequência de Fibonacci que devem aparecer, no final, no terminal são: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233 e 377. Ultilize uma função pra resolver o exercício. </h4>
 
-* [Minha resolução](x)
+* [Minha resolução](https://github.com/DevNicolask/Portugol/blob/main/Exercicios/Aula%2013%20-%20Exerc%C3%ADcios/SERIEDEFIBONACCI.ALG)
 
 <!--Exercício 05 da aula 13-->
 <h3>13.5 - Analisador de String </h3>
 <h4>Resumo: O algoritmo deve analisar uma string digitada pelo usuário. Ele deve começar pedindo ao usuário que digite um nome. Depois, o algoritmo deve mostrar na tela o nome digitado pelo usuário em letras maiúsculas e minúsculas, o número de letras do nome digitado, a primeira letra do nome, a última letra do nome e a posição da letra “N” no nome. O programa também deve, escrever na tela o número que representa a letra “A” na tabela ASCII e a letra que é representada pelo número 65 na tabela ASCII. No fim, o programa devevrá mostrar na tela o nome digitado pelo usuário ao contrário! </h4>
 
-* [Minha resolução](x)
+* [Minha resolução](https://github.com/DevNicolask/Portugol/blob/main/Exercicios/Aula%2013%20-%20Exerc%C3%ADcios/ANALIZADORDESTRING.ALG)
+
 <!--Fim dos exercícios da Aula 13-->
 <!--Fim da aula 13-->
 

@@ -27,5 +27,4 @@ Inicio
          Escreval(Time[i]:10,"[] X []", Time[j])
       FimPara
    FimPara
-
 fimalgoritmo

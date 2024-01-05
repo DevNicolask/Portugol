@@ -1,37 +1,36 @@
 Algoritmo "SequenciaDeFibonacciFuncao"
-// Função que muda o valor de "D" para o próximo na sequência de Fibonacci.
+// Funï¿½ï¿½o que muda o valor de "D" para o prï¿½ximo na sequï¿½ncia de Fibonacci.
 Funcao ProxFibonacci(var N1, N2:inteiro): inteiro
 Var N3: inteiro
 Inicio
 
-// Calcula o próximo valor da sequência.
+// Calcula o prï¿½ximo valor da sequï¿½ncia.
    N3 <- N1 + N2
 
 // Atualiza os valores de N1 e N2.
    N1 <- N2
    N2 <- N3
    
-// Retorna o próximo número da sequência.
+// Retorna o prï¿½ximo nï¿½mero da sequï¿½ncia.
 Retorne N3
 FimFuncao
 
 var A, B, C, D: inteiro
 inicio
 
-//Mostra na tela os doisprimeiros números da sequência de Fibonacci.
+//Mostra na tela os doisprimeiros nï¿½meros da sequï¿½ncia de Fibonacci.
    A <- 0
    Escreval(A)
    B <- 1
    Escreval(B)
    
-// Looping para escrever a sequência de Fibonacci.
+// Looping para escrever a sequï¿½ncia de Fibonacci.
    Para C := 3 ate 15 faca
    
-// chama a função que calcula o próximo número da sequência.
+// chama a funï¿½ï¿½o que calcula o prï¿½ximo nï¿½mero da sequï¿½ncia.
     D := ProxFibonacci(A, B)
     
-// Mostra os próximos 13 números da sequência.
+// Mostra os prï¿½ximos 13 nï¿½meros da sequï¿½ncia.
    Escreval(D)
 FimPara
-
 fimalgoritmo

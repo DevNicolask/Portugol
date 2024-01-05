@@ -1,6 +1,6 @@
 algoritmo "ParOuImparFuncao"
 
-// Função que testa se o número tem resto 0 quando é dividido por 2
+// Funï¿½ï¿½o que testa se o nï¿½mero tem resto 0 quando ï¿½ dividido por 2
 Funcao ParOuImpar(X: inteiro): caractere
 Inicio
    Se (X % 2 = 0) entao
@@ -13,13 +13,13 @@ FimFuncao
 var A: inteiro
    B: caractere
 inicio
-//PEde ao usuário que digite um valor.
+//PEde ao usuï¿½rio que digite um valor.
    Escreva("Digite um valor: ")
    Leia(A)
    
-// Chama a função.
+// Chama a funï¿½ï¿½o.
    B <- ParOuImpar(A)
    
 //Mostra na tela o valor
-   Escreva("O número ", A, " é um valor ", B)
+   Escreva("O nï¿½mero ", A, " ï¿½ um valor ", B)
 fimalgoritmo

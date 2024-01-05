@@ -120,5 +120,4 @@ Inicio
    ate (c = 5)
       LimpaTela
       Escreva("FINALIZANDO...")
-   
 fimalgoritmo
