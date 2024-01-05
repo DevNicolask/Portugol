@@ -2,9 +2,9 @@ algoritmo "SoPodeC"
 Var Nome: caractere
    SoC: vetor[1..10] de caractere
    C, Tot: inteiro
-inicio
+Inicio
 
-//Algoritmo que pede ao usuário que digite 10 nomes e armazena os nomes com inicial "C".
+//Algoritmo que pede ao usuï¿½rio que digite 10 nomes e armazena os nomes com inicial "C".
    Tot <- 0
    Para C <- 1 ate 10 faca
       Escreva("Escreva seu nome: ")
@@ -15,13 +15,13 @@ inicio
       FimSe
    FimPara
    
-//Mostra o menú final com os nomes com inicial "C".
+//Mostra o menï¿½ final com os nomes com inicial "C".
    LimpaTela
    Escreval("-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-")
    Escreval("=         LISTA FINAL         =")
    Escreval("-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-")
    Escreval("")
-   Escreval("Há ", Tot, " nomes começam com a letra 'C'")
+   Escreval("Hï¿½ ", Tot, " nomes comeï¿½am com a letra 'C'")
    Para C <- 1 ate Tot faca
     Escreval(SoC[C]:10 )
    FimPAra

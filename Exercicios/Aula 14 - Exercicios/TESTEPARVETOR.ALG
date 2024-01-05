@@ -3,9 +3,9 @@ var
    N: vetor[1..7] de inteiro
    i, Totp: inteiro
 
-inicio
+Inicio
 
-//Algoritmo que pede ao usuário 7 números e armazena em cada espaço do vetor.
+//Algoritmo que pede ao usuï¿½rio 7 nï¿½meros e armazena em cada espaï¿½o do vetor.
    Totp <- 0
    Para i<- 1 ate 7 faca
       Escreva("Digite o", i, "o. valor. ")
@@ -15,6 +15,6 @@ inicio
       FimSe
    FimPara
    
-//algoritmo que mostra o total de números pares digitados
-   Escreva("Tem ", Totp, " números pares entre os valores digitados")
+//algoritmo que mostra o total de nï¿½meros pares digitados
+   Escreva("Tem ", Totp, " nï¿½meros pares entre os valores digitados")
 fimalgoritmo

@@ -1,10 +1,10 @@
 algoritmo "TorneioFutebol"
 var times: vetor[1..3] de Caractere
     linha, coluna: Inteiro
-inicio
+Inicio
 
 //O mesmo que o professor fez na aula.
-//Algoritmo que pede ao usuário que digite o nome de 3 times.
+//Algoritmo que pede ao usuï¿½rio que digite o nome de 3 times.
     EscrevaL("=-=-=-=-=-=-=-=-=-")
     EscrevaL("CAMPEONATO FUTEBOL")
     EscrevaL("=-=-=-=-=-=-=-=-=-")

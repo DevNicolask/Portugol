@@ -35,8 +35,24 @@
 <!--Aqui começam os exercícios e desafios!!!-->
 <h2>III. Exercícios e Desafios.</h2>
 
-<!--Aula 14-->
-<h3>xi Aula 14 (Exercícios da aula prática)</h3>
+<!--Aula 13-->
+<h3>Aula 13 (Exercícios da aula prática)</h3>
+
+<!--Link da aula 13 do curso em vídeo-->
+<p>
+
+* [Link da aula 13 do curso em vídeo](https://www.cursoemvideo.com/curso/curso-de-algoritmo/aulas/algoritmo/modulos/funcoes/)
+
+</p>
+
+<!--Exercício 01 da aula 13-->
+<h3>13.1 - Soma Função</h3>
+<h4>Resumo: O algoritmo deve solicitar ao usuário dois valores para realizar uma soma. Por fim, o programa deve exibir o resultado da soma na tela.</h4>
+
+* [Minha resolução]()
+
+<!--Início da aula 14-->
+<h3>Aula 14 (Exercícios da aula prática)</h3>
 
 <!--Link da aula 14 do curso em vídeo-->
 <p>
@@ -45,6 +61,7 @@
 
 </p>
 
+<!--Início dos exercícios da Aula 14-->
 <!--Exercício 01 da aula 14-->
 <h3>14.1 - Total de Pares</h3>
 <h4>Resumo: Algoritmo que pede ao usuário que digite 7 números e armazena cada um deles em um espaço de um vetor. Em seguida, ele deve verificar se cada número é par e adcionar 1 a variável “Totp” se o número for par. Por fim, ele deve exibir o total de números pares digitados</h4>
@@ -68,9 +85,10 @@
 <h4>Resumo: O algoritmo deve pedir ao usuário 10 valores e armazena-los em um vetor. Em seguida, chamar um procedimento que ordena os valores do vetor. O procedimento  deve utilizar dois loopings aninhados para comparar cada elemento do vetor com todos os outros elementos e trocar os elementos de posição se necessário. No final o vetor ordenado é exibido na tela </h4>
 
 * [Minha resolução](https://github.com/DevNicolask/Portugol/blob/main/Exercicios/Aula%2014%20-%20Exercicios/ORDENAVETOR.ALG)
+<!--Fim dos exercícios da Aula 14-->
 
-<!--Aula 15 Desafios!-->
-<h3>xii Aula 14 (Desafios) </h3>
+<!--Início dos desafios da Aula 14-->
+<h3>Aula 14 (Desafios) </h3>
 
 <!--Desafio 01 da aula 14-->
 <h3>14.5 - Torneio de Futebol</h3> 
@@ -90,9 +108,11 @@
 <h4>Resumo: Faça um Algoritmo que simule umaa reserva de assentos em uma sala de cinema. O programa deve começar com um vetor de 10 cadeiras vazio. Um procedimento deve escrever o menu de escolha de cadeiras no topo da tela. O algoritmo deve pedir ao usuário o número da cadeira que ele quer comprar. Se o usuário escolher uma cadeira ocupada, uma mensagem de erro deverá ser exibida. O programa deverá continuar à pedir ao usuário para escolher uma cadeira, até que o usuário decida não escolher mais então o  algoritmo finaliza.</h4>
 
 * [Minha resolução](https://github.com/DevNicolask/Portugol/blob/main/Exercicios/Aula%2014%20-%20Exercicios/RESERVADECINEMA.ALG)
+<!--Fim dos desafios da Aula 14-->
+<!--Fim da Aula 14-->
 
-<!--Aula 15-->
-<h3>xiii - Aula 15 (Exercícios da aula prática)</h3>
+<!--Início da Aula 15-->
+<h3>Aula 15 (Exercícios da aula prática)</h3>
 
 <!--Link da aula 15 do curso em vídeo-->
 <p>
@@ -101,6 +121,8 @@
 
 </p>
 
+
+<!--Fim dos exercícios da Aula 15-->
 <!--Exercício 01 da aula 15-->
 <h3>15.1 - Preenche Matriz</h3> 
 <h4>Resumo: Algoritmo que pede ao usuário valores para preencher uma matriz 3x2.</h4>
@@ -126,9 +148,10 @@ quais sao as posicoes que possuem valores pares marcando os valores com {}.</h4>
 A soma dos valores da diagonal principal, o produto dos valores da segunda linha e o maior valor da terceira coluna</h4>
 
 * [Minha resolução](https://github.com/DevNicolask/Portugol/blob/main/Exercicios/Aula%2015%20-%20Exercicios/MATRIZD4ORDEM.ALG)
+<!--Fim dos exercícios da Aula 15-->
 
-<!--Aula 15 Desafios!-->
-<h3>xiv - Aula 15 (Desafios) </h3>
+<!--Início dos Desafios da Aula 15-->
+<h3>Aula 15 (Desafios) </h3>
 
 <!--Desafio 01 da aula 15-->
 <h3>15.5 - Dissecando uma matriz</h3> 
@@ -142,4 +165,4 @@ A soma dos valores da diagonal principal, o produto dos valores da segunda linha
 <h4>Resumo: O jogo deve ter um tabuleiro 3x3 e mostrar dentro de cada quadrado o número correspondente da casa do tabuleiro. Quando o primeiro jogador, de símbolo [X], jogar, o algoritmo deve receber o número da casa e substituir o número pelo símbolo do jogador 1. Se o jogador jogar em uma casa já jogada anteriormente, o algoritmo deve mostrar uma mensagem de erro e pedir para o jogador jogar novamente. O jogo deve continuar alternando entre jogador 1 [X] e jogador 2 [O] até que um dos dois ganhe ou dê "velha". O algoritmo deve ser capaz de reconhecer os dois casos e finalizar caso uma das situações seja verdadeira.</h4>
 
 * [Minha resolução](https://github.com/DevNicolask/Portugol/blob/main/Exercicios/Aula%2015%20-%20Exercicios/JOGODAVELHA.ALG)
-
+<!--Fim da Aula 15-->

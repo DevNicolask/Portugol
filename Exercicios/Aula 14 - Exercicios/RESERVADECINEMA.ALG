@@ -3,11 +3,11 @@ var B: vetor[1..10] de caracter
     i, c: inteiro
     resp: caractere
     
-//Procedimento que escreve o menú de escolha de cadeiras no topo da tela.
+//Procedimento que escreve o menï¿½ de escolha de cadeiras no topo da tela.
 Procedimento tp()
-inicio
-//Looping pra escrever o número das cadeiras do cinema.
-Escreval("CADEIRAS DISPONÍVEIS! ")
+Inicio
+//Looping pra escrever o nï¿½mero das cadeiras do cinema.
+Escreval("CADEIRAS DISPONï¿½VEIS! ")
       Escreval("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=")
       Para i de 1 ate 10 faca
          Se (B[i] = "") entao
@@ -20,26 +20,26 @@ Escreval("CADEIRAS DISPONÍVEIS! ")
       Escreval(" ")
       Escreval("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=")
 FimProcedimento
-inicio
-//Looping para que os espaços do vetor fique sem valores antes de o usuário adicionar.
+Inicio
+//Looping para que os espaï¿½os do vetor fique sem valores antes de o usuï¿½rio adicionar.
    Para i de 1 ate 10 faca
       B[i] <- ""
    FimPara
 
-//Algoritmo que pede ao usuário o número da cadeira que ele quer comprar.
-//Obs.: Se o usuário escolher uma cadeira ocupada um desvio condicional exibe na tela uma mensagem de erro.
+//Algoritmo que pede ao usuï¿½rio o nï¿½mero da cadeira que ele quer comprar.
+//Obs.: Se o usuï¿½rio escolher uma cadeira ocupada um desvio condicional exibe na tela uma mensagem de erro.
    Repita
       tp()
-      Escreva("Você quer reservar qual cadeira? B")
+      Escreva("Vocï¿½ quer reservar qual cadeira? B")
       Leia(c)
       Se (B[c] = "") entao
          B[c] <- "X"
          Escreval("Cadeira reservada!")
       Senao
-         Escreval("ERRO! Não é possível comprar. Lugar oculpado!")
+         Escreval("ERRO! Nï¿½o ï¿½ possï¿½vel comprar. Lugar oculpado!")
       FimSe
       Escreval("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=")
-      Escreva("Você ainda vai escolher mais uma cadeira?[S/N] ")
+      Escreva("Vocï¿½ ainda vai escolher mais uma cadeira?[S/N] ")
       Leia(resp)
       LimpaTela
 

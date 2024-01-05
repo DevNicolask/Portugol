@@ -7,7 +7,7 @@ var
 Procedimento Ordenador()
 var
    i, j, aux: Inteiro
-inicio
+Inicio
    aux <- 0
    Para i <- 1 ate 9 faca
       Para j <- i+1 ate 10 faca
@@ -20,9 +20,9 @@ inicio
    FimPara
 FimProcedimento
 
-inicio
+Inicio
 
-//Algoritmo que pede ao usuário 10 valores e armazena-os em um vetor
+//Algoritmo que pede ao usuï¿½rio 10 valores e armazena-os em um vetor
    Para c <- 1 ate 10 faca
       Escreva("Digite o ", c, "o. valor: ")
       Leia(v[c])

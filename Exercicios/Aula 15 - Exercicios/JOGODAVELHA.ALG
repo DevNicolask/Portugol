@@ -1,8 +1,8 @@
 algoritmo "JogoDaVelha"
-//Primeiro criar os procedimentos/funções necessários no projeto.
+//Primeiro criar os procedimentos/funï¿½ï¿½es necessï¿½rios no projeto.
 //Tabuleiro do Jogo da velha
 Procedimento tjv()
-inicio
+Inicio
    Escreval("-=-=-=-=-=-=-=-=-=-=-")
    Escreval("| - JOGO DA VELHA - |")
    Escreval("-=-=-=-=-=-=-=-=-=-=-")
@@ -16,41 +16,41 @@ inicio
    Escreval("   |---|---|---|")
 FimProcedimento
 
-//Função que testa se a jogada foi válida.
+//Funï¿½ï¿½o que testa se a jogada foi vï¿½lida.
 Funcao Teste(S: caractere; N: inteiro): logico
 var Resp: logico
-inicio
+Inicio
    Resp <- Falso
    Para i de 1 ate 3 faca
       Para j de 1 ate 3 faca
-         Se (Jv[i,j] = NumpCarac(N)) então
+         Se (Jv[i,j] = NumpCarac(N)) entï¿½o
             Jv[i,j] <- S
             Resp <- Verdadeiro
          FimSe
       FimPara
    Fimpara
    Retorne Resp
-FimFunção
+FimFunï¿½ï¿½o
 
-//Função que muda o símbolo do jogador
+//Funï¿½ï¿½o que muda o sï¿½mbolo do jogador
 funcao MudaS(S:caractere): caractere
 var Sn:caractere
-inicio
-   Se (S = "X") então
+Inicio
+   Se (S = "X") entï¿½o
       SN <- "O"
    Senao
       SN <- "X"
    FimSe
    Retorne SN
-FimFunção
+FimFunï¿½ï¿½o
 
 //Salta linha
 Procedimento  line()
-inicio
+Inicio
    Escreval()
 FimProcedimento
 
-//Função que testa se o jogo acabou.
+//Funï¿½ï¿½o que testa se o jogo acabou.
 Funcao FimJogo(): Logico
 Var terminou: Logico
    cont: inteiro
@@ -100,8 +100,8 @@ var  jv: vetor[1..3, 1..3] de caractere
    i, j, c, Num, Velha: inteiro
    Terminou, Jogada: logico
    Simb, Ganhador: caractere
-inicio
-//Looping pra colocar os números nas casas do tabuleiro.
+Inicio
+//Looping pra colocar os nï¿½meros nas casas do tabuleiro.
    c <- 1
    Para i de 1 ate 3 faca
       Para j de 1 ate 3 faca
@@ -119,11 +119,11 @@ inicio
    Repita
       Repita
          Line()
-         Escreval("Jogador [", Simb, "] digite o número da casa que você quer marcar. ")
+         Escreval("Jogador [", Simb, "] digite o nï¿½mero da casa que vocï¿½ quer marcar. ")
          Leia(Num)
          Jogada <- teste(Simb, Num)
-         Se (jogada = Falso) então
-            Escreva("ERRO! Joque em um lugar válido!")
+         Se (jogada = Falso) entï¿½o
+            Escreva("ERRO! Joque em um lugar vï¿½lido!")
          FimSe
       Ate (Jogada = Verdadeiro)
       Simb <- MudaS(Simb)
@@ -147,7 +147,7 @@ inicio
    Escreva("Fim de jogo!!!")
 //Verificando se deu velha
    Se (velha = 0) entao
-      Escreva(" O vencedor foi o jogador", i, " com símbolo[", Ganhador, "]!")
+      Escreva(" O vencedor foi o jogador", i, " com sï¿½mbolo[", Ganhador, "]!")
    Senao
       Escreva(" Deu velha!")
    FimSe

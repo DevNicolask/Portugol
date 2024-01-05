@@ -1,8 +1,8 @@
 algoritmo "MatrizIdentidade"
 var MId: vetor[1..4, 1..4] de inteiro
     i, j :inteiro
-inicio
-//Adiciona valores para cada posição da matriz
+Inicio
+//Adiciona valores para cada posiï¿½ï¿½o da matriz
    Para i de 1 ate 4 faca
       para j de 1 ate 4 faca
          Se (i = j) entao

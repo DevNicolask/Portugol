@@ -2,10 +2,10 @@ algoritmo "TorneioFutebolEntre4Jogos"
 var Time: vetor[1..4] de caractere
     i, j: inteiro
 
-inicio
+Inicio
 
-//Algoritmo que pede ao usuário que digite o nome de 4 times.
-//Obs.:O professor fez na aula com 3 times e pediu pra alterarmos o código para o algoritmo fazer o mesmo com 4 times.
+//Algoritmo que pede ao usuï¿½rio que digite o nome de 4 times.
+//Obs.:O professor fez na aula com 3 times e pediu pra alterarmos o cï¿½digo para o algoritmo fazer o mesmo com 4 times.
    Escreval("-=-=-=-=-=-=-=-=-=-=-=-")
    Escreval("=   TABELA DE JOGOS   =")
    Escreval("-=-=-=-=-=-=-=-=-=-=-=-")

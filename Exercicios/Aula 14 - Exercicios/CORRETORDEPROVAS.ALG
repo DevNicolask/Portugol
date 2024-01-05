@@ -1,7 +1,7 @@
 algoritmo "CorretorDeProvas"
-//Procedimento que mostra na tela o menú principal do corretor
+//Procedimento que mostra na tela o menï¿½ principal do corretor
 Procedimento topo()
-inicio
+Inicio
 Escreval("-=-=-=-=-=-=-=-=-=-=-=-=")
 Escreval("=  CORRETOR DE PROVAS  =")
 Escreval("-=-=-=-=-=-=-=-=-=-=-=-=")
@@ -14,9 +14,9 @@ var nomes: Vetor[1..3] de caractere
     gabaritos: vetor[1..5] de caractere
     i, j: inteiro
     media_turma: real
-inicio
+Inicio
 
-//Algoritmo que pede ao usuário que digite o gabarito da correção das 5 questões.
+//Algoritmo que pede ao usuï¿½rio que digite o gabarito da correï¿½ï¿½o das 5 questï¿½es.
    Topo()
    Escreval("CADASTRO DO GABARITO DA PROVA:")
    Para i <- 1 ate 5 faca
@@ -33,7 +33,7 @@ inicio
       Escreval("")
       Escreval("CADASTRO DO GABARITO DO ALUNO.")
       Para j <- 1 ate 5 faca
-         Escreva("Gabarito da questão ",j, "  ")
+         Escreva("Gabarito da questï¿½o ",j, "  ")
          Leia(gabaritos[j])
          Se (gabaritos[j] = gabarito_oficial[j]) entao
             notas[i] <- notas[i] + 2
@@ -42,7 +42,7 @@ inicio
    LimpaTela
    FimPara
 
-//Algoritmo que calcula a média da turma
+//Algoritmo que calcula a mï¿½dia da turma
    Para i <- 1 ate 3 faca
       media_turma <- media_turma + (notas[i]/ 3)
    FimPara
@@ -54,7 +54,7 @@ inicio
    Para i <- 1 ate 3 faca
       Escreval(nomes[i]:10, notas[i])
    FimPara
-//Algoritmo que mostra na tela a média da turma
+//Algoritmo que mostra na tela a mï¿½dia da turma
    Escreval("-=-=-=-=-=-=-=-=-=-=-=-=")
-   Escreval("A MEDIA DA TURMA É: ", media_turma:4:2)
+   Escreval("A MEDIA DA TURMA ï¿½: ", media_turma:4:2)
 fimalgoritmo

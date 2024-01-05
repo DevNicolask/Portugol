@@ -1,26 +1,26 @@
 algoritmo "Dissecandomatrizes"
 
-//Procedimento pra fazer uma "linha decorativa" no código
+//Procedimento pra fazer uma "linha decorativa" no cï¿½digo
 Procedimento linha()
-inicio
+Inicio
    Escreval("=============================")
 FimProcedimento
 
-//Procedimento para dar espaços automáticamente
+//Procedimento para dar espaï¿½os automï¿½ticamente
 Procedimento spc()
-inicio
+Inicio
    Escreval()
 FimProcedimento
 
-//Procedimento para mostrar o "Menú principal" do algoritmo
+//Procedimento para mostrar o "Menï¿½ principal" do algoritmo
 Procedimento Topo()
 Inicio
    linha()
-   Escreval("=       MENÚ DE OPÇÕES      =")
+   Escreval("=       MENï¿½ DE OPï¿½ï¿½ES      =")
    linha()
    Escreval("[1] - MOSTRAR A MATRIZ")
    Escreval("[2] - DIAGONAL PRINCIPAL")
-   Escreval("[3] - TRIÂNGULO INFERIOR")
+   Escreval("[3] - TRIï¿½NGULO INFERIOR")
    Escreval("[4] - TRIANGULO SUPERIOR")
    Escreval("[5] - SAIR")
    linha()
@@ -31,21 +31,21 @@ FimProcedimento
 var M: vetor[1..4, 1..4] de inteiro
     i, j, c: inteiro
 
-inicio
-//loooping pra pedir ao usuário os 16 números da matriz.
+Inicio
+//loooping pra pedir ao usuï¿½rio os 16 nï¿½meros da matriz.
    Para i de 1 ate 4 faca
       Para j de 1 ate 4 faca
-         Escreva("Digite o [", i, ",", j, "] número: ")
+         Escreva("Digite o [", i, ",", j, "] nï¿½mero: ")
          Leia(M[i,j])
          spc()
       FimPara
    FimPara
 
-//Mostra o menú espera a escolha usuário.
+//Mostra o menï¿½ espera a escolha usuï¿½rio.
    Repita
       spc()
       Topo()
-//Mostra a forma de matriz que o usuário escolher.
+//Mostra a forma de matriz que o usuï¿½rio escolher.
       Escolha c
          //Mostra a matriz normal
          caso 1
@@ -83,7 +83,7 @@ inicio
          Caso 3
             LimpaTela
             linha()
-            Escreval("     TRIÂNGULO INFERIOR     ")
+            Escreval("     TRIï¿½NGULO INFERIOR     ")
             linha()
             spc()
             Para i de 1 ate 4 faca
@@ -97,11 +97,11 @@ inicio
                spc()
             FimPara
             spc()
-         //Mostra o triângulo superior da matriz.
+         //Mostra o triï¿½ngulo superior da matriz.
          caso 4
             LimpaTela
             linha()
-            Escreval("     TRIÂNGULO SUPERIOR     ")
+            Escreval("     TRIï¿½NGULO SUPERIOR     ")
             linha()
             spc()
             Para i de 1 ate 4 faca
@@ -116,7 +116,7 @@ inicio
             FimPara
             spc()
       FimEscolha
-//Limpa a tela e mostra a tela de finalização.
+//Limpa a tela e mostra a tela de finalizaï¿½ï¿½o.
    ate (c = 5)
       LimpaTela
       Escreva("FINALIZANDO...")

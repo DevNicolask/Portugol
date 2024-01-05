@@ -2,9 +2,9 @@ algoritmo "Matrizd4Ordem"
 var
    M: vetor[1..4, 1..4] de inteiro
    i, j, SDP, P2L, MN3: inteiro
-inicio
-//Pede ao usuário que insira valores para cada espaço da Matriz.
-//Esse algoritmo guarda na variável SDP a soma dos valores da diagonal principal.
+Inicio
+//Pede ao usuï¿½rio que insira valores para cada espaï¿½o da Matriz.
+//Esse algoritmo guarda na variï¿½vel SDP a soma dos valores da diagonal principal.
    P2L <- 1
    Para i de 1 ate 4 faca
       Para j de 1  ate 4 faca
@@ -25,20 +25,20 @@ inicio
       Escreval()
    FimPara
 
-//Esse looping multiplica os valores da segunda linha e armazena na variável P2L.
+//Esse looping multiplica os valores da segunda linha e armazena na variï¿½vel P2L.
    Para j de 1 ate 4 faca
       P2L <- P2L * M[2,j]
    FimPAra
 
-//Esse looping verifica e armazena o maior número da terceira coluna na variável MN3.
+//Esse looping verifica e armazena o maior nï¿½mero da terceira coluna na variï¿½vel MN3.
    Para i de 1 ate 4 faca
       Se (M[i,3] > MN3) entao
          MN3 <- M[I,3]
       FimSe
    FimPara
    
-//Escreve o resultado das variáveis anteriormente encontradas na tela.
-   Escreval("A soma dos números da diagonal principal é ", SDP)
-   Escreval("O produto dos números da segunda linha é ", P2L)
-   Escreval("O maior número da 3a. coluna é o ", MN3)
+//Escreve o resultado das variï¿½veis anteriormente encontradas na tela.
+   Escreval("A soma dos nï¿½meros da diagonal principal ï¿½ ", SDP)
+   Escreval("O produto dos nï¿½meros da segunda linha ï¿½ ", P2L)
+   Escreval("O maior nï¿½mero da 3a. coluna ï¿½ o ", MN3)
 fimalgoritmo

@@ -2,8 +2,8 @@ algoritmo "Matriz3x2"
 var
   mat: vetor[1..3, 1..2] de Inteiro
   i, j: Inteiro
-inicio
-   //Looping que pede ao usuário que insira valores para cada posição da matriz.
+Inicio
+   //Looping que pede ao usuï¿½rio que insira valores para cada posiï¿½ï¿½o da matriz.
    Para i <- 1 ate 3 faca
       Para j <- 1 ate 2 faca
          Escreva ("Digite o valor da posicao [", i, ",", j, "]: ")

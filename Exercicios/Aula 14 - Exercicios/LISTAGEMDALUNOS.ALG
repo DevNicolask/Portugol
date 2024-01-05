@@ -6,7 +6,7 @@ var
   media: vetor[1..5] de Real
   SM, MT: Real
   i: Inteiro
-inicio
+Inicio
 
 //Algoritmo que guarda e armazena o nome e as duas primeiras notas do aluno.
    Para i <- 1 ate 5 faca
@@ -25,7 +25,7 @@ inicio
       SM <- SM + media[i]
    FimPara
 
-//Menú que mostra a média da turma, e o nome dos alunos com média superior a média da turma.
+//Menï¿½ que mostra a mï¿½dia da turma, e o nome dos alunos com mï¿½dia superior a mï¿½dia da turma.
    LimpaTela
    MT <- SM / 5
    EscrevaL ("A media da turma e ", MT:4:1)

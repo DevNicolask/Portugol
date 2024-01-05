@@ -1,9 +1,9 @@
 algoritmo "MatrizdeOrdem3"
 var m: vetor[1..3, 1..3] de inteiro
     l, c, TotPar: inteiro
-inicio
+Inicio
 
-//Looping pra perguntar ao usuário que número colocar em cada uma das posições
+//Looping pra perguntar ao usuï¿½rio que nï¿½mero colocar em cada uma das posiï¿½ï¿½es
    totPar <- 0
    Para l de 1 ate 3 faca
       Para c de 1 ate 3 faca
@@ -18,7 +18,7 @@ inicio
    Escreval("  SUA MATRIZ:  ")
    Escreval("---------------")
    
-//Looping pra escrever a Matriz 3x3 marcando os números pares.
+//Looping pra escrever a Matriz 3x3 marcando os nï¿½meros pares.
    Para l de 1 ate 3 faca
       Para c de 1 ate 3 faca
          Se (m[l,c] % 2 = 0) entao
@@ -31,6 +31,6 @@ inicio
       Escreval()
    FimPara
    
-//Tela final, com o número de números pares digitados.
-   Escreva("No total foram digitados ", TotPar, " números pares.")
+//Tela final, com o nï¿½mero de nï¿½meros pares digitados.
+   Escreva("No total foram digitados ", TotPar, " nï¿½meros pares.")
 fimalgoritmo
