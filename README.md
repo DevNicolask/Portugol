@@ -75,8 +75,6 @@
 <h4>Resumo: O algoritmo deve analisar uma string digitada pelo usuário. Ele deve começar pedindo ao usuário que digite um nome. Depois, o algoritmo deve mostrar na tela o nome digitado pelo usuário em letras maiúsculas e minúsculas, o número de letras do nome digitado, a primeira letra do nome, a última letra do nome e a posição da letra “N” no nome. O programa também deve, escrever na tela o número que representa a letra “A” na tabela ASCII e a letra que é representada pelo número 65 na tabela ASCII. No fim, o programa devevrá mostrar na tela o nome digitado pelo usuário ao contrário! </h4>
 
 * [Minha resolução](x)
-
-
 <!--Fim dos exercícios da Aula 13-->
 <!--Fim da aula 13-->
 
