@@ -18,19 +18,19 @@
 #### Obs.: Eu utilizei a versão 3.0.5 
 ---
 ### Todas as aulas sao gratuitas, mas possuem o direito autoral reservado  ao autor, Gustavo Guanabara.
-
-### Abra o VISUALG e clique em Arquivo > Abrir ou pressione Ctrl+A. Em seguida, localize o arquivo desejado em sua respectiva pasta.
-
 ### Para mais instruções de instalação e configuração do VISUALG veja os vídeos introdutórios do curso de algoritmo do Curso em video.
 
 <!--Instruções-->
 <h2>II. Como fazer</h2>
 
-### 2.1 Faça os desafios do curso em vídeo
+### i. Faça os desafios do curso em vídeo
 #### - Vou colocá-los aqui em órdem crescente. (estou terminando ainda) 
 #### - Vou botar aqui também o link das respectivas aulas dos desafios.
-### 2.3 Se tiver curiosidade de ver a minha solução, procure aqui.
+### ii. Se tiver curiosidade de ver a minha solução, procure aqui.
 #### - Vou deixar o link da pasta da minha solução abaixo do desafio.
+#### - Clone ou baixe o arquivo do repositório para a sua máquina e procure _NO VISUALG_ a pasta clonada.
+#### - Abra o VISUALG e clique em Arquivo > Abrir ou pressione `Ctrl`+`A`. Em seguida, localize o arquivo desejado em sua respectiva pasta.
+#### Obs.: O GitHub não carrega corretamente a visualização dos códigos do tipo `.ALG` 
 
 <!--Aqui começam os exercícios e desafios!!!-->
 <h2>III. Exercícios e Desafios.</h2>
