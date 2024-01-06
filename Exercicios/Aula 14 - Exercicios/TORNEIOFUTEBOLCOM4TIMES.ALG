@@ -4,8 +4,8 @@ var Time: vetor[1..4] de caractere
 
 Inicio
 
-//Algoritmo que pede ao usu�rio que digite o nome de 4 times.
-//Obs.:O professor fez na aula com 3 times e pediu pra alterarmos o c�digo para o algoritmo fazer o mesmo com 4 times.
+// Algoritmo que pede ao usu�rio que digite o nome de 4 times.
+// Obs.:O professor fez na aula com 3 times e pediu pra alterarmos o c�digo para o algoritmo fazer o mesmo com 4 times.
    Escreval("-=-=-=-=-=-=-=-=-=-=-=-")
    Escreval("=   TABELA DE JOGOS   =")
    Escreval("-=-=-=-=-=-=-=-=-=-=-=-")
@@ -15,13 +15,13 @@ Inicio
       Leia(Time[i])
    FimPara
 
-//Limpa a tela e mostra a tabela de jogos entre os 4 times.
+// Limpa a tela e mostra a tabela de jogos entre os 4 times.
    LimpaTela
    Escreval("-=-=-=-=-=-=-=-=-=-=-=-")
    Escreval("=   TABELA DE JOGOS   =")
    Escreval("-=-=-=-=-=-=-=-=-=-=-=-")
    Escreval("")
-//Looping que escreve a tabela.
+// Looping que escreve a tabela.
    Para i <- 1 ate 3 faca
       Para j <- i + 1 ate 4 faca
          Escreval(Time[i]:10,"[] X []", Time[j])

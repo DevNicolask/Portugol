@@ -8,7 +8,7 @@ var
   i: Inteiro
 Inicio
 
-//Algoritmo que guarda e armazena o nome e as duas primeiras notas do aluno.
+// Algoritmo que guarda e armazena o nome e as duas primeiras notas do aluno.
    Para i <- 1 ate 5 faca
       EscrevaL("=-=-=-=-=-=--=-=-=-=-=-")
       EscrevaL("  DADOS DO ALUNO ", i   )
@@ -25,7 +25,7 @@ Inicio
       SM <- SM + media[i]
    FimPara
 
-//Men� que mostra a m�dia da turma, e o nome dos alunos com m�dia superior a m�dia da turma.
+// Men� que mostra a m�dia da turma, e o nome dos alunos com m�dia superior a m�dia da turma.
    LimpaTela
    MT <- SM / 5
    EscrevaL ("A media da turma e ", MT:4:1)

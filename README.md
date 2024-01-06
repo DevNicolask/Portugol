@@ -35,8 +35,55 @@
 <!--Aqui começam os exercícios e desafios!!!-->
 <h2>III. Exercícios e Desafios.</h2>
 
+---
+<!--Inicio da aula 12-->
+<h3>Aula 12 (Exercícios da aula prática)</h3>
+
+<!--Link da aula 12 do curso em vídeo-->
+<p>
+
+* [Link da aula 12 do curso em vídeo]()
+
+</p>
+
+---
+<!--Início dos exercícios da Aula 12-->
+<!--Exercício 01 da aula 12-->
+<h3>12.1 - Detector de Pesado!</h3>
+<h4>Resumo:  Esse algoritmo dede analisar o peso de 5 pessoas e no final mostrar na tela o nome e o peso da pessoa mais pesada.</h4>
+
+* [Minha resolução](x)
+
+<!--Exercício 02 da aula 12-->
+<h3>12.2 - Soma Procedimento</h3>
+<h4>Resumo: O algoritmo deve realizar um procedimento de soma que recebe dois números inteiros como entrada e mostra na tela a soma desses dois números. O algoritmo principal deve definir as variáveis X e Y como 5 e 3, respectivamente, e chamar o procedimento com essas variáveis como argumentos. Como resultado, o algoritmo deve mostrar “Recebi o valor 5”, “Recebi o valor 3” e “A soma entre os dois é 8”.</h4>
+
+* [Minha resolução](x)
+
+<!--Exercício 03 da aula 12-->
+<h3>12.3 - Par ou Impar Procedimento </h3>
+<h4>Resumo: O código deve verificar se um número é par ou ímpar. O algoritmo deve pedir ao usuário para digitar um número inteiro e depois usar um procedimento para verificar se o número é par ou ímpar. O procedimento deverá ser chamado com o número digitado como parâmetro e escrever na tela se o número é par ou ímpar. Se o número for par, o procedimento escreve “O número X é PAR”, (X é o número digitado). Se o número for ímpar, o procedimento deve mostrar na tela “O número X é IMPAR”.</h4>
+
+* [Minha resolução](x)
+
+<!--Exercício 04 da aula 12-->
+<h3>12.4 - Soma por refência</h3>
+<h4>Resumo: O algoritmo deve somar dois valores usando procedimentos com passagem de parâmetros por referência. O algoritmo deve começar definindo duas variáveis inteiras, X e Y. Em seguida, deverá usar um procedimento chamado para somar 1 ao valor de X e 2 ao valor de Y. O procedimento também deve escrever na tela o valor de A, o valor de B e a soma de A e B. O procedimento deverá ser chamado com as variáveis X e Y como parâmetros. No final deverá ser mostrado na tela os valores de A, B, A+B, X e Y.</h4>
+
+* [Minha resolução](x)
+
+<!--Exercício 05 da aula 12-->
+<h3>12.5 - Sequência de Fibonacci Procedimento</h3>
+<h4>Resumo: O código deve gerar os primeiros 15 números da sequência de Fibonacci. O algoritmo deve começar com os dois primeiros números da sequência, 0 e 1, mostra-los na tela e então usar um procedimento para escrever o próximo número da sequência, que é a soma dos dois números anteriores. O procedimento deverá ser chamado em um looping para escrever os próximos 13 números da sequência. No final, deve-se mostrar na tela os 15 primeiros números da sequência de Fibonacci.</h4>
+
+* [Minha resolução](x)
+
+<!--Fim dos exercícios da Aula 12-->
+<!--Fim da aula 12-->
+
 <!--Inicio da aula 13-->
 <!--Início dos exercícios da Aula 13-->
+---
 <h3>Aula 13 (Exercícios da aula prática)</h3>
 
 <!--Link da aula 13 do curso em vídeo-->
@@ -46,6 +93,7 @@
 
 </p>
 
+---
 <!--Exercício 01 da aula 13-->
 <h3>13.1 - Soma Função</h3>
 <h4>Resumo: O algoritmo deve solicitar ao usuário dois valores para realizar uma soma. Por fim, o programa deve exibir o resultado da soma na tela.</h4>
@@ -80,6 +128,7 @@
 <!--Fim da aula 13-->
 
 <!--Início da aula 14-->
+---
 <h3>Aula 14 (Exercícios da aula prática)</h3>
 
 <!--Link da aula 14 do curso em vídeo-->
@@ -89,6 +138,7 @@
 
 </p>
 
+---
 <!--Início dos exercícios da Aula 14-->
 <!--Exercício 01 da aula 14-->
 <h3>14.1 - Total de Pares</h3>
@@ -115,9 +165,13 @@
 * [Minha resolução](https://github.com/DevNicolask/Portugol/blob/main/Exercicios/Aula%2014%20-%20Exercicios/ORDENAVETOR.ALG)
 <!--Fim dos exercícios da Aula 14-->
 
-<!--Início dos desafios da Aula 14-->
-<h3>Aula 14 (Desafios) </h3>
+---
 
+<h3>Aula 14 (Desafios) </h3
+
+---
+
+<!--Início dos desafios da Aula 14-->
 <!--Desafio 01 da aula 14-->
 <h3>14.5 - Torneio de Futebol</h3> 
 <h4>Resumo: Algoritmo para solicitar o nome de (três/quatro) times e, em seguida, exibir uma tabela de partidas com os nomes dos times. O programa não prescisa armazenar os resultados das partidas, apenas exibir a tabela de partidas possíveis.</h4>
@@ -139,6 +193,7 @@
 <!--Fim dos desafios da Aula 14-->
 <!--Fim da Aula 14-->
 
+---
 <!--Início da Aula 15-->
 <h3>Aula 15 (Exercícios da aula prática)</h3>
 
@@ -149,8 +204,8 @@
 
 </p>
 
-
-<!--Fim dos exercícios da Aula 15-->
+---
+<!--Inicio dos exercícios da Aula 15-->
 <!--Exercício 01 da aula 15-->
 <h3>15.1 - Preenche Matriz</h3> 
 <h4>Resumo: Algoritmo que pede ao usuário valores para preencher uma matriz 3x2.</h4>
@@ -178,9 +233,11 @@ A soma dos valores da diagonal principal, o produto dos valores da segunda linha
 * [Minha resolução](https://github.com/DevNicolask/Portugol/blob/main/Exercicios/Aula%2015%20-%20Exercicios/MATRIZD4ORDEM.ALG)
 <!--Fim dos exercícios da Aula 15-->
 
+---
 <!--Início dos Desafios da Aula 15-->
 <h3>Aula 15 (Desafios) </h3>
 
+---
 <!--Desafio 01 da aula 15-->
 <h3>15.5 - Dissecando uma matriz</h3> 
 <h4>Resumo: O algoritmo deve perguntar ao usuário 16 números pra armazenar em uma matriz 4x4. Após esse processo, ele deve mostrar um menú com 5 opções; 
@@ -193,9 +250,3 @@ A soma dos valores da diagonal principal, o produto dos valores da segunda linha
 <h4>Resumo: O jogo deve ter um tabuleiro 3x3 e mostrar dentro de cada quadrado o número correspondente da casa do tabuleiro. Quando o primeiro jogador, de símbolo [X], jogar, o algoritmo deve receber o número da casa e substituir o número pelo símbolo do jogador 1. Se o jogador jogar em uma casa já jogada anteriormente, o algoritmo deve mostrar uma mensagem de erro e pedir para o jogador jogar novamente. O jogo deve continuar alternando entre jogador 1 [X] e jogador 2 [O] até que um dos dois ganhe ou dê "velha". O algoritmo deve ser capaz de reconhecer os dois casos e finalizar caso uma das situações seja verdadeira.</h4>
 
 * [Minha resolução](https://github.com/DevNicolask/Portugol/blob/main/Exercicios/Aula%2015%20-%20Exercicios/JOGODAVELHA.ALG)
-
-<!--Exercício x da aula x-->
-<h3>1x.x - </h3>
-<h4>Resumo: x</h4>
-
-* [Minha resolução](x)

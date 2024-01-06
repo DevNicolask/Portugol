@@ -3,7 +3,7 @@ var m: vetor[1..3, 1..3] de inteiro
     l, c, TotPar: inteiro
 Inicio
 
-//Looping pra perguntar ao usu�rio que n�mero colocar em cada uma das posi��es
+// Looping pra perguntar ao usu�rio que n�mero colocar em cada uma das posi��es
    totPar <- 0
    Para l de 1 ate 3 faca
       Para c de 1 ate 3 faca
@@ -18,7 +18,7 @@ Inicio
    Escreval("  SUA MATRIZ:  ")
    Escreval("---------------")
    
-//Looping pra escrever a Matriz 3x3 marcando os n�meros pares.
+// Looping pra escrever a Matriz 3x3 marcando os n�meros pares.
    Para l de 1 ate 3 faca
       Para c de 1 ate 3 faca
          Se (m[l,c] % 2 = 0) entao
@@ -31,6 +31,6 @@ Inicio
       Escreval()
    FimPara
    
-//Tela final, com o n�mero de n�meros pares digitados.
+// Tela final, com o n�mero de n�meros pares digitados.
    Escreva("No total foram digitados ", TotPar, " n�meros pares.")
 fimalgoritmo

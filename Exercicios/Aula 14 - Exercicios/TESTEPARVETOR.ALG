@@ -5,7 +5,7 @@ var
 
 Inicio
 
-//Algoritmo que pede ao usu�rio 7 n�meros e armazena em cada espa�o do vetor.
+// Algoritmo que pede ao usu�rio 7 n�meros e armazena em cada espa�o do vetor.
    Totp <- 0
    Para i<- 1 ate 7 faca
       Escreva("Digite o", i, "o. valor. ")
@@ -15,6 +15,6 @@ Inicio
       FimSe
    FimPara
    
-//algoritmo que mostra o total de n�meros pares digitados
+// Algoritmo que mostra o total de n�meros pares digitados
    Escreva("Tem ", Totp, " n�meros pares entre os valores digitados")
 fimalgoritmo

@@ -1,4 +1,6 @@
 Algoritmo "SequenciaDeFibonacciFuncao"
+var A, B, C, D: inteiro
+
 // Fun��o que muda o valor de "D" para o pr�ximo na sequ�ncia de Fibonacci.
 Funcao ProxFibonacci(var N1, N2:inteiro): inteiro
 Var N3: inteiro
@@ -15,10 +17,9 @@ Inicio
 Retorne N3
 FimFuncao
 
-var A, B, C, D: inteiro
 inicio
 
-//Mostra na tela os doisprimeiros n�meros da sequ�ncia de Fibonacci.
+// Mostra na tela os doisprimeiros n�meros da sequ�ncia de Fibonacci.
    A <- 0
    Escreval(A)
    B <- 1

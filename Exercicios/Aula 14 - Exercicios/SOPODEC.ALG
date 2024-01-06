@@ -4,7 +4,7 @@ Var Nome: caractere
    C, Tot: inteiro
 Inicio
 
-//Algoritmo que pede ao usu�rio que digite 10 nomes e armazena os nomes com inicial "C".
+// Algoritmo que pede ao usu�rio que digite 10 nomes e armazena os nomes com inicial "C".
    Tot <- 0
    Para C <- 1 ate 10 faca
       Escreva("Escreva seu nome: ")
@@ -15,7 +15,7 @@ Inicio
       FimSe
    FimPara
    
-//Mostra o men� final com os nomes com inicial "C".
+// Mostra o men� final com os nomes com inicial "C".
    LimpaTela
    Escreval("-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-")
    Escreval("=         LISTA FINAL         =")

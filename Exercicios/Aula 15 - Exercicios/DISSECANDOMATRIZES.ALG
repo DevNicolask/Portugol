@@ -1,18 +1,20 @@
 algoritmo "Dissecandomatrizes"
+var M: vetor[1..4, 1..4] de inteiro
+    i, j, c: inteiro
 
-//Procedimento pra fazer uma "linha decorativa" no c�digo
+// Procedimento pra fazer uma "linha decorativa" no c�digo
 Procedimento linha()
 Inicio
    Escreval("=============================")
 FimProcedimento
 
-//Procedimento para dar espa�os autom�ticamente
+// Procedimento para dar espa�os autom�ticamente
 Procedimento spc()
 Inicio
    Escreval()
 FimProcedimento
 
-//Procedimento para mostrar o "Men� principal" do algoritmo
+// Procedimento para mostrar o "Men� principal" do algoritmo
 Procedimento Topo()
 Inicio
    linha()
@@ -28,11 +30,8 @@ Inicio
    Leia(c)
 FimProcedimento
 
-var M: vetor[1..4, 1..4] de inteiro
-    i, j, c: inteiro
-
 Inicio
-//loooping pra pedir ao usu�rio os 16 n�meros da matriz.
+// loooping pra pedir ao usu�rio os 16 n�meros da matriz.
    Para i de 1 ate 4 faca
       Para j de 1 ate 4 faca
          Escreva("Digite o [", i, ",", j, "] n�mero: ")
@@ -41,11 +40,11 @@ Inicio
       FimPara
    FimPara
 
-//Mostra o men� espera a escolha usu�rio.
+// Mostra o men� espera a escolha usu�rio.
    Repita
       spc()
       Topo()
-//Mostra a forma de matriz que o usu�rio escolher.
+// Mostra a forma de matriz que o usu�rio escolher.
       Escolha c
          //Mostra a matriz normal
          caso 1
@@ -79,7 +78,7 @@ Inicio
                spc()
             FimPara
             spc()
-         //Mostra o triangulo inferior da matriz.
+         // Mostra o triangulo inferior da matriz.
          Caso 3
             LimpaTela
             linha()
@@ -97,7 +96,7 @@ Inicio
                spc()
             FimPara
             spc()
-         //Mostra o tri�ngulo superior da matriz.
+         // Mostra o tri�ngulo superior da matriz.
          caso 4
             LimpaTela
             linha()
@@ -116,7 +115,7 @@ Inicio
             FimPara
             spc()
       FimEscolha
-//Limpa a tela e mostra a tela de finaliza��o.
+// Limpa a tela e mostra a tela de finaliza��o.
    ate (c = 5)
       LimpaTela
       Escreva("FINALIZANDO...")

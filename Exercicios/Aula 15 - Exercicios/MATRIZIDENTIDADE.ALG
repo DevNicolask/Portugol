@@ -2,7 +2,7 @@ algoritmo "MatrizIdentidade"
 var MId: vetor[1..4, 1..4] de inteiro
     i, j :inteiro
 Inicio
-//Adiciona valores para cada posi��o da matriz
+// Adiciona valores para cada posi��o da matriz
    Para i de 1 ate 4 faca
       para j de 1 ate 4 faca
          Se (i = j) entao

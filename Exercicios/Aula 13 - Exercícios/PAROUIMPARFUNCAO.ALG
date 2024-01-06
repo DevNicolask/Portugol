@@ -1,5 +1,7 @@
 algoritmo "ParOuImparFuncao"
-
+var A: inteiro
+   B: caractere
+   
 // Fun��o que testa se o n�mero tem resto 0 quando � dividido por 2
 Funcao ParOuImpar(X: inteiro): caractere
 Inicio
@@ -10,16 +12,14 @@ Inicio
    FimSe
 FimFuncao
 
-var A: inteiro
-   B: caractere
 inicio
-//PEde ao usu�rio que digite um valor.
+// Pede ao usu�rio que digite um valor.
    Escreva("Digite um valor: ")
    Leia(A)
    
 // Chama a fun��o.
    B <- ParOuImpar(A)
    
-//Mostra na tela o valor
+// Mostra na tela o valor
    Escreva("O n�mero ", A, " � um valor ", B)
 fimalgoritmo

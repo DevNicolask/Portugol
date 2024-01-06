@@ -1,6 +1,11 @@
 algoritmo "JogoDaVelha"
-//Primeiro criar os procedimentos/fun��es necess�rios no projeto.
-//Tabuleiro do Jogo da velha
+var  jv: vetor[1..3, 1..3] de caractere
+   i, j, c, Num, Velha: inteiro
+   Terminou, Jogada: logico
+   Simb, Ganhador: caractere
+
+// Primeiro criar os procedimentos/fun��es necess�rios no projeto.
+// Tabuleiro do Jogo da velha
 Procedimento tjv()
 Inicio
    Escreval("-=-=-=-=-=-=-=-=-=-=-")
@@ -32,7 +37,7 @@ Inicio
    Retorne Resp
 FimFun��o
 
-//Fun��o que muda o s�mbolo do jogador
+// Fun��o que muda o s�mbolo do jogador
 funcao MudaS(S:caractere): caractere
 var Sn:caractere
 Inicio
@@ -44,33 +49,33 @@ Inicio
    Retorne SN
 FimFun��o
 
-//Salta linha
+// Salta linha
 Procedimento  line()
 Inicio
    Escreval()
 FimProcedimento
 
-//Fun��o que testa se o jogo acabou.
+// Fun��o que testa se o jogo acabou.
 Funcao FimJogo(): Logico
 Var terminou: Logico
    cont: inteiro
 Inicio
    Terminou <- Falso
-//Teste de linha
+// Teste de linha
    Para i de 1 ate  3 faca
       Se (Jv[i,1] = Jv[i,2]) e (Jv[i,2] = Jv[i,3]) entao
          Terminou <- Verdadeiro
       FimSe
    FimPara
 
-//Teste de colunas
+// Teste de colunas
    Para j de 1 ate 3 faca
       se (Jv[1,j] = Jv[2,j]) e (Jv[2,j] = Jv[3,j]) entao
          Terminou <- Verdadeiro
       FimSe
    FimPara
 
-//Teste de diagonal
+// Teste de diagonal
    Se (Jv[1,1] = Jv[2,2]) e (Jv[2,2] = Jv[3,3]) entao
       Terminou <- Verdadeiro
    FimSe
@@ -79,7 +84,7 @@ Inicio
       Terminou <- Verdadeiro
    FimSe
 
-//Teste de Velha
+// Teste de Velha
    cont <- 0
    velha <- 0
    Para i de 1 ate 3 faca
@@ -96,12 +101,8 @@ Inicio
    retorne Terminou
 FimFuncao
 
-var  jv: vetor[1..3, 1..3] de caractere
-   i, j, c, Num, Velha: inteiro
-   Terminou, Jogada: logico
-   Simb, Ganhador: caractere
 Inicio
-//Looping pra colocar os n�meros nas casas do tabuleiro.
+// Looping pra colocar os n�meros nas casas do tabuleiro.
    c <- 1
    Para i de 1 ate 3 faca
       Para j de 1 ate 3 faca
@@ -110,12 +111,12 @@ Inicio
       FimPara
    FimPara
 
-//Tabuleiro
+// Tabuleiro
    Terminou <- Falso
    Simb <- "X"
    Tjv()
 
-//Inicio do jogo
+// Inicio do jogo
    Repita
       Repita
          Line()
@@ -128,16 +129,16 @@ Inicio
       Ate (Jogada = Verdadeiro)
       Simb <- MudaS(Simb)
 
-//Refaz o tabuleiro
+// Refaz o tabuleiro
       LimpaTela
       Tjv()
       line()
 
-//Teste pra saber se o jogo acabou.
+// Teste pra saber se o jogo acabou.
       Terminou <- FimJogo()
    Ate (Terminou = Verdadeiro)
    
-//Mansagem de Fim De Jogo
+// Mansagem de Fim De Jogo
    Ganhador <- MudaS(Simb)
    Se (Ganhador = "X") entao
       i <- 1
@@ -145,7 +146,7 @@ Inicio
       i <- 2
    FimSe
    Escreva("Fim de jogo!!!")
-//Verificando se deu velha
+// Verificando se deu velha
    Se (velha = 0) entao
       Escreva(" O vencedor foi o jogador", i, " com s�mbolo[", Ganhador, "]!")
    Senao
