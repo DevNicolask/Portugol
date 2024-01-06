@@ -42,7 +42,7 @@
 <!--Link da aula 12 do curso em vídeo-->
 <p>
 
-* [Link da aula 12 do curso em vídeo]()
+* [Link da aula 12 do curso em vídeo](https://youtu.be/KoNehy7rn8U?si=SqMvBJKynGUWdtFU)
 
 </p>
 
@@ -52,31 +52,31 @@
 <h3>12.1 - Detector de Pesado!</h3>
 <h4>Resumo:  Esse algoritmo dede analisar o peso de 5 pessoas e no final mostrar na tela o nome e o peso da pessoa mais pesada.</h4>
 
-* [Minha resolução](x)
+* [Minha resolução](https://github.com/DevNicolask/Portugol/blob/main/Exercicios/Aula%2012%20-%20Exerc%C3%ADcios/ANALIZADORDEPESADO.ALG)
 
 <!--Exercício 02 da aula 12-->
 <h3>12.2 - Soma Procedimento</h3>
 <h4>Resumo: O algoritmo deve realizar um procedimento de soma que recebe dois números inteiros como entrada e mostra na tela a soma desses dois números. O algoritmo principal deve definir as variáveis X e Y como 5 e 3, respectivamente, e chamar o procedimento com essas variáveis como argumentos. Como resultado, o algoritmo deve mostrar “Recebi o valor 5”, “Recebi o valor 3” e “A soma entre os dois é 8”.</h4>
 
-* [Minha resolução](x)
+* [Minha resolução](https://github.com/DevNicolask/Portugol/blob/main/Exercicios/Aula%2012%20-%20Exerc%C3%ADcios/SOMAPROCEDIMENTO.ALG)
 
 <!--Exercício 03 da aula 12-->
 <h3>12.3 - Par ou Impar Procedimento </h3>
 <h4>Resumo: O código deve verificar se um número é par ou ímpar. O algoritmo deve pedir ao usuário para digitar um número inteiro e depois usar um procedimento para verificar se o número é par ou ímpar. O procedimento deverá ser chamado com o número digitado como parâmetro e escrever na tela se o número é par ou ímpar. Se o número for par, o procedimento escreve “O número X é PAR”, (X é o número digitado). Se o número for ímpar, o procedimento deve mostrar na tela “O número X é IMPAR”.</h4>
 
-* [Minha resolução](x)
+* [Minha resolução](https://github.com/DevNicolask/Portugol/blob/main/Exercicios/Aula%2012%20-%20Exerc%C3%ADcios/PAROUIMPARPROCEDIMENTO.ALG)
 
 <!--Exercício 04 da aula 12-->
 <h3>12.4 - Soma por refência</h3>
 <h4>Resumo: O algoritmo deve somar dois valores usando procedimentos com passagem de parâmetros por referência. O algoritmo deve começar definindo duas variáveis inteiras, X e Y. Em seguida, deverá usar um procedimento chamado para somar 1 ao valor de X e 2 ao valor de Y. O procedimento também deve escrever na tela o valor de A, o valor de B e a soma de A e B. O procedimento deverá ser chamado com as variáveis X e Y como parâmetros. No final deverá ser mostrado na tela os valores de A, B, A+B, X e Y.</h4>
 
-* [Minha resolução](x)
+* [Minha resolução](https://github.com/DevNicolask/Portugol/blob/main/Exercicios/Aula%2012%20-%20Exerc%C3%ADcios/SOMAPARAMETROSREFER%C3%AANCIA.ALG)
 
 <!--Exercício 05 da aula 12-->
 <h3>12.5 - Sequência de Fibonacci Procedimento</h3>
 <h4>Resumo: O código deve gerar os primeiros 15 números da sequência de Fibonacci. O algoritmo deve começar com os dois primeiros números da sequência, 0 e 1, mostra-los na tela e então usar um procedimento para escrever o próximo número da sequência, que é a soma dos dois números anteriores. O procedimento deverá ser chamado em um looping para escrever os próximos 13 números da sequência. No final, deve-se mostrar na tela os 15 primeiros números da sequência de Fibonacci.</h4>
 
-* [Minha resolução](x)
+* [Minha resolução](https://github.com/DevNicolask/Portugol/blob/main/Exercicios/Aula%2012%20-%20Exerc%C3%ADcios/SEQU%C3%AANCIADEFIBONACCI2.ALG)
 
 <!--Fim dos exercícios da Aula 12-->
 <!--Fim da aula 12-->
