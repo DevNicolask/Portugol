@@ -1,14 +1,15 @@
 
 ---
 <!--Inicio da aula 07-->
+<center>
 <h3>Aula 07 (Exercícios da aula prática)</h3>
-
 <!--Link da aula 07 do curso em vídeo-->
 <p>
 
-* [Link da aula 07 do curso em vídeo](https://www.cursoemvideo.com/curso/curso-de-algoritmo/aulas/algoritmo/modulos/estruturas-condicionais-1/)
+[Link da aula 07 do curso em vídeo](https://www.cursoemvideo.com/curso/curso-de-algoritmo/aulas/algoritmo/modulos/estruturas-condicionais-1/)
 
 </p>
+</center>
 
 ---
 <!--Início dos exercícios da Aula 07-->
@@ -29,9 +30,11 @@
 <h4>Resumo:.</h4>
 
 * [Minha resolução](#)
----
 
-<h3>Aula 07 (Desafios)</h3>
+---
+<center>
+    <h3>Aula 07 (Desafios)</h3>
+</center>
 
 ---
 <!--Início dos desafios da Aula 07-->
@@ -51,13 +54,14 @@
 
 ---
 <!--Inicio da aula 08-->
+<center>
 <h3>Aula 08 (Exercícios da aula prática)</h3>
 
 <!--Link da aula 08 do curso em vídeo-->
 <p>
 
-* [Link da aula 08 do curso em vídeo](https://www.cursoemvideo.com/curso/curso-de-algoritmo/aulas/algoritmo/modulos/estruturas-condicionais-2/)
-
+[Link da aula 08 do curso em vídeo](https://www.cursoemvideo.com/curso/curso-de-algoritmo/aulas/algoritmo/modulos/estruturas-condicionais-2/)
+</center>
 </p>
 
 ---
@@ -85,12 +89,13 @@
 <h4>Resumo:.</h4>
 
 * [Minha resolução](#)
----
-
-<h3>Aula 08 (Desafios)</h3>
 
 ---
+<center>
+    <h3>Aula 08 (Desafios)</h3>
+</center>
 
+---
 <!--Início dos desafios da Aula 08-->
 <!--Desafio 01 da aula 08-->
 <h3>08.5 - Aproveitamento Escolar.</h3> 
@@ -105,15 +110,16 @@
 * [Minha resolução](#)
 <!--Fim dos desafios da Aula 08-->
 <!--Fim da aula 08-->
+
 ---
 <!--Inicio da aula 09-->
+<center>
 <h3>Aula 09 (Exercícios da aula prática)</h3>
-
 <!--Link da aula 09 do curso em vídeo-->
 <p>
 
-* [Link da aula 09 do curso em vídeo](https://www.cursoemvideo.com/curso/curso-de-algoritmo/aulas/algoritmo/modulos/estruturas-de-repeticao-1/)
-
+[Link da aula 09 do curso em vídeo](https://www.cursoemvideo.com/curso/curso-de-algoritmo/aulas/algoritmo/modulos/estruturas-de-repeticao-1/)
+</center>
 </p>
 
 ---
@@ -147,12 +153,13 @@
 <h4>Resumo:.</h4>
 
 * [Minha resolução](#)
----
-
-<h3>Aula 09 (Desafios)</h3
 
 ---
+<center>
+<h3>Aula 09 (Desafios)</h3>
+</center>
 
+---
 <!--Início dos desafios da Aula 09-->
 <!--Desafio 01 da aula 09-->
 <h3>09.6 - Contagem Inteligente</h3> 
@@ -167,15 +174,17 @@
 * [Minha resolução](#)
 <!--Fim dos desafios da Aula 09-->
 <!--Fim da aula 09-->
+
 ---
 <!--Inicio da aula 10-->
+<center>
 <h3>Aula 10 (Exercícios da aula prática)</h3>
 
 <!--Link da aula 10 do curso em vídeo-->
 <p>
 
-* [Link da aula 10 do curso em vídeo](https://www.cursoemvideo.com/curso/curso-de-algoritmo/aulas/algoritmo/modulos/estruturas-de-repeticao-2/)
-
+[Link da aula 10 do curso em vídeo](https://www.cursoemvideo.com/curso/curso-de-algoritmo/aulas/algoritmo/modulos/estruturas-de-repeticao-2/)
+</center>
 </p>
 
 ---
@@ -210,11 +219,11 @@
 
 * [Minha resolução](#)
 ---
-
+<center>
 <h3>Aula 10 (Desafios)</h3>
+</center>
 
 ---
-
 <!--Início dos desafios da Aula 10-->
 <!--Desafio 01 da aula 10-->
 <h3>10.6 - Supercontador.</h3> 
@@ -230,14 +239,16 @@
 <!--Fim dos desafios da Aula 10-->
 <!--Fim da aula 10-->
 ---
+
 <!--Inicio da aula 11-->
+<center>
 <h3>Aula 11 (Exercícios da aula prática)</h3>
 
 <!--Link da aula 11 do curso em vídeo-->
 <p>
 
-* [Link da aula 11 do curso em vídeo](https://www.cursoemvideo.com/curso/curso-de-algoritmo/aulas/algoritmo/modulos/estruturas-de-repeticao-3/)
-
+[Link da aula 11 do curso em vídeo](https://www.cursoemvideo.com/curso/curso-de-algoritmo/aulas/algoritmo/modulos/estruturas-de-repeticao-3/)
+</center>
 </p>
 
 ---
@@ -265,12 +276,13 @@
 <h4>Resumo:.</h4>
 
 * [Minha resolução](#)
----
 
+---
+<center>
 <h3>Aula 11 (Desafios)</h3>
+</center>
 
 ---
-
 <!--Início dos desafios da Aula 11-->
 <!--Desafio 01 da aula 11-->
 <h3>11.5 - Sequência de Fibonacci.</h3> 

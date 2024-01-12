@@ -9,8 +9,12 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/dev.nick_57071)
 [![Gmail](https://img.shields.io/badge/Gmail-%23ea4325.svg?logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/1/#sent?compose=CllgCJqbQBpcJbFmWZtJHnhGCGzwlKwJQMlmdCctbtknXBvTLrcQRmqLjlLCzVJtGLWsTBpltHL)
 </div>
+
+---
 <!--Intro-->
-<h2>I. Introdução</h2>
+<center>
+    <h2>I. Introdução</h2>
+</center>
 
 ### Aqui eu resolvi colocar as minhas resoluções de desafios do curso de Algoritmo e lógica de programação do [Curso em vídeo](www.cursoemvideo.com) do professor Gustavo Guanabara. Eu fiz alguns comentários nas minhas resoluções dos desafios alem disso, alguns desses exercícios o professor resolveu em vídeo, mas eu coloquei aqui também. Nesse repositório, pretendo principalmente armazenar a minha versão de resposta dos desafios e minha experiência aprendendo lógica de programação nesse curso maravilhoso.
 ### Site do Curso: [Curso de algoritmo com Portugol](www.cursoemvideo.com/course/curso-de-algoritmos/)
@@ -20,31 +24,38 @@
 ### Todas as aulas sao gratuitas, mas possuem o direito autoral reservado  ao autor, Gustavo Guanabara.
 ### Para mais instruções de instalação e configuração do VISUALG veja os vídeos introdutórios do curso de algoritmo do Curso em video.
 
+---
 <!--Instruções-->
-<h2>II. Como fazer</h2>
+<center>
+    <h2>II. Como fazer</h2>
+</center>
 
 ### i. Faça os desafios do curso em vídeo
-#### - Vou colocá-los aqui em órdem crescente. (estou terminando ainda) 
+#### - Vou colocá-los aqui em órdem crescente. 
 #### - Vou botar aqui também o link das respectivas aulas dos desafios.
 ### ii. Se tiver curiosidade de ver a minha solução, procure aqui.
 #### - Vou deixar o link da pasta da minha solução abaixo do desafio.
 #### - Clone ou baixe o arquivo do repositório para a sua máquina e procure _NO VISUALG_ a pasta clonada.
 #### - Abra o VISUALG e clique em Arquivo > Abrir ou pressione `Ctrl`+`A`. Em seguida, localize o arquivo desejado em sua respectiva pasta.
-#### Obs.: O GitHub não carrega corretamente a visualização dos códigos do tipo `.ALG` 
-
-<!--Aqui começam os exercícios e desafios!!!-->
-<h2>III. Exercícios e Desafios.</h2>
+#### Obs.: O GitHub não carrega corretamente a visualização dos códigos com pontuação `pt-br`. 
 
 ---
-<!--Inicio da aula 12-->
-<h3>Aula 12 (Exercícios da aula prática)</h3>
+<!--Aqui começam os exercícios e desafios!!!-->
+<center>
+    <h2>III. Exercícios e Desafios.</h2>
+</center>
 
+
+<!--Inicio da aula 12-->
+<center>
+<h3>Aula 12 (Exercícios da aula prática)</h3>
 <!--Link da aula 12 do curso em vídeo-->
 <p>
 
-* [Link da aula 12 do curso em vídeo](https://youtu.be/KoNehy7rn8U?si=SqMvBJKynGUWdtFU)
-
+[Link da aula 12 do curso em vídeo](https://youtu.be/KoNehy7rn8U?si=SqMvBJKynGUWdtFU)
 </p>
+</center>
+
 
 ---
 <!--Início dos exercícios da Aula 12-->
@@ -77,20 +88,19 @@
 <h4>Resumo: O código deve gerar os primeiros 15 números da sequência de Fibonacci. O algoritmo deve começar com os dois primeiros números da sequência, 0 e 1, mostra-los na tela e então usar um procedimento para escrever o próximo número da sequência, que é a soma dos dois números anteriores. O procedimento deverá ser chamado em um looping para escrever os próximos 13 números da sequência. No final, deve-se mostrar na tela os 15 primeiros números da sequência de Fibonacci.</h4>
 
 * [Minha resolução](https://github.com/DevNicolask/Portugol/blob/main/Exercicios/Aula%2012%20-%20Exerc%C3%ADcios/SEQU%C3%AANCIADEFIBONACCI2.ALG)
-
 <!--Fim dos exercícios da Aula 12-->
 <!--Fim da aula 12-->
 
+---
 <!--Inicio da aula 13-->
 <!--Início dos exercícios da Aula 13-->
----
+<center>
 <h3>Aula 13 (Exercícios da aula prática)</h3>
-
 <!--Link da aula 13 do curso em vídeo-->
 <p>
 
-* [Link da aula 13 do curso em vídeo](https://www.cursoemvideo.com/curso/curso-de-algoritmo/aulas/algoritmo/modulos/funcoes/)
-
+[Link da aula 13 do curso em vídeo](https://www.cursoemvideo.com/curso/curso-de-algoritmo/aulas/algoritmo/modulos/funcoes/)
+</center>
 </p>
 
 ---
@@ -127,15 +137,15 @@
 <!--Fim dos exercícios da Aula 13-->
 <!--Fim da aula 13-->
 
-<!--Início da aula 14-->
 ---
+<!--Início da aula 14-->
+<center>
 <h3>Aula 14 (Exercícios da aula prática)</h3>
-
 <!--Link da aula 14 do curso em vídeo-->
 <p>
 
-* [Link da aula 14 do curso em vídeo](https://www.cursoemvideo.com/curso/curso-de-algoritmo/aulas/algoritmo/modulos/vetores/)
-
+[Link da aula 14 do curso em vídeo](https://www.cursoemvideo.com/curso/curso-de-algoritmo/aulas/algoritmo/modulos/vetores/)
+</center>
 </p>
 
 ---
@@ -166,8 +176,9 @@
 <!--Fim dos exercícios da Aula 14-->
 
 ---
-
-<h3>Aula 14 (Desafios) </h3
+<center>
+    <h3>Aula 14 (Desafios) </h3>
+</center>
 
 ---
 
@@ -192,15 +203,16 @@
 * [Minha resolução](https://github.com/DevNicolask/Portugol/blob/main/Exercicios/Aula%2014%20-%20Exercicios/RESERVADECINEMA.ALG)
 <!--Fim dos desafios da Aula 14-->
 <!--Fim da Aula 14-->
+
 ---
 <!--Início da Aula 15-->
+<center>
 <h3>Aula 15 (Exercícios da aula prática)</h3>
-
 <!--Link da aula 15 do curso em vídeo-->
 <p>
 
-* [Link da aula 15 do curso em vídeo](https://www.cursoemvideo.com/curso/curso-de-algoritmo/aulas/algoritmo/modulos/matrizes/)
-
+[Link da aula 15 do curso em vídeo](https://www.cursoemvideo.com/curso/curso-de-algoritmo/aulas/algoritmo/modulos/matrizes/)
+</center>
 </p>
 
 ---
@@ -233,10 +245,12 @@ A soma dos valores da diagonal principal, o produto dos valores da segunda linha
 <!--Fim dos exercícios da Aula 15-->
 
 ---
-<!--Início dos Desafios da Aula 15-->
-<h3>Aula 15 (Desafios) </h3>
+<center>
+    <h3>Aula 15 (Desafios) </h3>
+</center>
 
 ---
+<!--Início dos Desafios da Aula 15-->
 <!--Desafio 01 da aula 15-->
 <h3>15.5 - Dissecando uma matriz</h3> 
 <h4>Resumo: O algoritmo deve perguntar ao usuário 16 números pra armazenar em uma matriz 4x4. Após esse processo, ele deve mostrar um menú com 5 opções; 
@@ -244,9 +258,16 @@ A soma dos valores da diagonal principal, o produto dos valores da segunda linha
 
 * [Minha resolução](https://github.com/DevNicolask/Portugol/blob/main/Exercicios/Aula%2015%20-%20Exercicios/DISSECANDOMATRIZES.ALG)
 ---
-<!--Desafioo 02 da aula 15-->
+<!--Desafio 02 da aula 15-->
 <h3>15.6 - Jogo da Velha</h3> 
 <h4>Resumo: O jogo deve ter um tabuleiro 3x3 e mostrar dentro de cada quadrado o número correspondente da casa do tabuleiro. Quando o primeiro jogador, de símbolo [X], jogar, o algoritmo deve receber o número da casa e substituir o número pelo símbolo do jogador 1. Se o jogador jogar em uma casa já jogada anteriormente, o algoritmo deve mostrar uma mensagem de erro e pedir para o jogador jogar novamente. O jogo deve continuar alternando entre jogador 1 [X] e jogador 2 [O] até que um dos dois ganhe ou dê "velha". O algoritmo deve ser capaz de reconhecer os dois casos e finalizar caso uma das situações seja verdadeira.</h4>
 
 * [Minha resolução](https://github.com/DevNicolask/Portugol/blob/main/Exercicios/Aula%2015%20-%20Exercicios/JOGODAVELHA.ALG)
+<!--Fim dos Desafios da Aula 15-->
+<!--Fim da Aula 15-->
 ---
+
+<!--Fim dos exercícios e das Aulas-->
+<center>
+    <h2>Fim!!! Obrigado por ver. (°^.^)ﾉ ❤️ </h2>
+</center>
