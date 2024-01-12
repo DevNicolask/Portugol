@@ -225,8 +225,7 @@
 ---
 <!--Exercício 02 da aula 15-->
 <h3>15.2 - Pares Matriz</h3> 
-<h4>Resumo: Algoritmo que pede ao usuário valores para preencher uma matriz de terceira ordem e depois o algoritmo deve mostrar
-quais sao as posicoes que possuem valores pares marcando os valores entre chaves, assim: {Valor par}.</h4>
+<h4>Resumo: Algoritmo que pede ao usuário valores para preencher uma matriz de terceira ordem e depois o algoritmo deve mostrar quais sao as posições que possuem valores pares marcando os valores entre chaves, assim: {Valor par}.</h4>
 
 * [Minha resolução](https://github.com/DevNicolask/Portugol/blob/main/Exercicios/Aula%2015%20-%20Exercicios/MATRIZDEORDEM3.ALG)
 ---
