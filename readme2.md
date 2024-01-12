@@ -6,7 +6,7 @@
 <!--Link da aula 07 do curso em vídeo-->
 <p>
 
-* [Link da aula 07 do curso em vídeo](#)
+* [Link da aula 07 do curso em vídeo](https://www.cursoemvideo.com/curso/curso-de-algoritmo/aulas/algoritmo/modulos/estruturas-condicionais-1/)
 
 </p>
 
@@ -56,7 +56,7 @@
 <!--Link da aula 08 do curso em vídeo-->
 <p>
 
-* [Link da aula 08 do curso em vídeo](#)
+* [Link da aula 08 do curso em vídeo](https://www.cursoemvideo.com/curso/curso-de-algoritmo/aulas/algoritmo/modulos/estruturas-condicionais-2/)
 
 </p>
 
@@ -75,7 +75,7 @@
 * [Minha resolução](#)
 ---
 <!--Exercício 03 da aula 08-->
-<h3>08.3 - Criânça Esperança.</h3>
+<h3>08.3 - Criança Esperança.</h3>
 <h4>Resumo:.</h4>
 
 * [Minha resolução](#)
@@ -112,7 +112,7 @@
 <!--Link da aula 09 do curso em vídeo-->
 <p>
 
-* [Link da aula 09 do curso em vídeo](#)
+* [Link da aula 09 do curso em vídeo](https://www.cursoemvideo.com/curso/curso-de-algoritmo/aulas/algoritmo/modulos/estruturas-de-repeticao-1/)
 
 </p>
 
@@ -174,7 +174,7 @@
 <!--Link da aula 10 do curso em vídeo-->
 <p>
 
-* [Link da aula 10 do curso em vídeo](#)
+* [Link da aula 10 do curso em vídeo](https://www.cursoemvideo.com/curso/curso-de-algoritmo/aulas/algoritmo/modulos/estruturas-de-repeticao-2/)
 
 </p>
 
@@ -236,7 +236,7 @@
 <!--Link da aula 11 do curso em vídeo-->
 <p>
 
-* [Link da aula 11 do curso em vídeo](#)
+* [Link da aula 11 do curso em vídeo](https://www.cursoemvideo.com/curso/curso-de-algoritmo/aulas/algoritmo/modulos/estruturas-de-repeticao-3/)
 
 </p>
 
