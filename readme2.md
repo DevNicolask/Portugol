@@ -31,10 +31,9 @@
 * [Minha resolução](#)
 ---
 
-<h3>Aula 07 (Desafios) </h3
+<h3>Aula 07 (Desafios)</h3>
 
 ---
-
 <!--Início dos desafios da Aula 07-->
 <!--Desafio 01 da aula 07-->
 <h3>07.4 - Carteira de Motorista.</h3> 
@@ -88,14 +87,14 @@
 * [Minha resolução](#)
 ---
 
-<h3>Aula 08 (Desafios)</h3
+<h3>Aula 08 (Desafios)</h3>
 
 ---
 
 <!--Início dos desafios da Aula 08-->
 <!--Desafio 01 da aula 08-->
-<h3>08.5 - Carteira de Motorista.</h3> 
-<h4>Resumo: Aproveitamento Escolar.</h4>
+<h3>08.5 - Aproveitamento Escolar.</h3> 
+<h4>Resumo: .</h4>
 
 * [Minha resolução](#)
 ---
@@ -157,7 +156,7 @@
 <!--Início dos desafios da Aula 09-->
 <!--Desafio 01 da aula 09-->
 <h3>09.6 - Contagem Inteligente</h3> 
-<h4>Resumo: Aproveitamento Escolar.</h4>
+<h4>Resumo: .</h4>
 
 * [Minha resolução](#)
 ---
@@ -212,14 +211,14 @@
 * [Minha resolução](#)
 ---
 
-<h3>Aula 10 (Desafios)</h3
+<h3>Aula 10 (Desafios)</h3>
 
 ---
 
 <!--Início dos desafios da Aula 10-->
 <!--Desafio 01 da aula 10-->
-<h3>10.6 - Carteira de Motorista.</h3> 
-<h4>Resumo: Supercontador.</h4>
+<h3>10.6 - Supercontador.</h3> 
+<h4>Resumo: .</h4>
 
 * [Minha resolução](#)
 ---
@@ -268,14 +267,14 @@
 * [Minha resolução](#)
 ---
 
-<h3>Aula 11 (Desafios)</h3
+<h3>Aula 11 (Desafios)</h3>
 
 ---
 
 <!--Início dos desafios da Aula 11-->
 <!--Desafio 01 da aula 11-->
-<h3>11.5 - .</h3> 
-<h4>Resumo: Sequência de Fibonacci.</h4>
+<h3>11.5 - Sequência de Fibonacci.</h3> 
+<h4>Resumo: .</h4>
 
 * [Minha resolução](#)
 ---
