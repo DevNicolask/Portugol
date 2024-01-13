@@ -1,8 +1,8 @@
-Algoritmo "Contarde1ate10"
+Algoritmo "Contarde10ate1"
 Var Contador: Inteiro
 inicio
 
-// Escreve os números de 10 até 1. Utilizando a estrutura condicional "Para"
+// Escreve os nÃºmeros de 10 atÃ© 1. Utilizando a estrutura condicional "Para"
    Para Contador <- 10 ate 1 passo -1 faca
       EscrevaL(C)
    FimPara
