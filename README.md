@@ -37,7 +37,7 @@
 #### - Vou deixar o link da pasta da minha solução abaixo do desafio.
 #### - Clone ou baixe o arquivo do repositório para a sua máquina e procure _NO VISUALG_ a pasta clonada.
 #### - Abra o VISUALG e clique em Arquivo > Abrir ou pressione `Ctrl`+`A`. Em seguida, localize o arquivo desejado em sua respectiva pasta.
-#### Obs.: O GitHub não carrega corretamente a visualização dos códigos com pontuação `pt-br`. 
+#### Obs.: O GitHub não carrega corretamente a visualização dos códigos com pontuação `pt-br` em arquivos do tipo `.ALG`. 
 
 ---
 <!--Aqui começam os exercícios e desafios!!!-->
