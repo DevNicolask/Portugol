@@ -124,7 +124,7 @@
 ---
 <!--Exercício 04 da aula 13-->
 <h3>13.4 - Sequência De Fibonacci com Função</h3>
-<h4>Resumo: O algoritmo deve gerar os primeiros 15 números da sequência de Fibonacci. A sequência de Fibonacci é uma sequência de números em que cada número é a soma dos dois números anteriores. Os  números da sequência de Fibonacci que devem aparecer, no final, no terminal são: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233 e 377. Ultilize uma função pra resolver o exercício. </h4>
+<h4>Resumo: O algoritmo deve gerar os primeiros 15 números da sequência de Fibonacci. A sequência de Fibonacci é uma sequência de números em que cada número é a soma dos dois números anteriores. Os  números da sequência de Fibonacci que devem aparecer, no final, no terminal são: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233 e 377. Ultilize uma função pra resolver o exercício.</h4>
 
 * [Minha resolução](https://github.com/DevNicolask/Portugol/blob/main/Exercicios/Aula%2013%20-%20Exerc%C3%ADcios/04%20-%20SERIEDEFIBONACCI.ALG)
 ---

@@ -99,7 +99,7 @@
 <!--Início dos desafios da Aula 08-->
 <!--Desafio 01 da aula 08-->
 <h3>08.5 - Aproveitamento Escolar.</h3> 
-<h4>Resumo: O algoritmo deve mostrar na tela o aproveitamento do aluno de acordo com a sua média de notas.Pede ao usuário as duas notas do aluno. O algoritmo deve calcular a média das notas e mostrar o resultado depois deve definir o aproveitamento do aluno com base na média. Se o aproveitamento for menor ou igual a 5 ele teve aprovetamento "F", se a nota for maior que 5 e menor ou igual a 6 então o aluno teve aproveitamento igual a"E", se a nota for maior que 6 e menor ou igual a 7 então o aluno teve aproveitamento igual a"D", se a nota for maior que 7 e menor ou igual a 8 então o aluno teve aproveitamento igual a"C", se a nota for maior que 8 e menor ou igual a 9 então o aluno teve aproveitamento igual a "B", senão,  o aproveitamento do aluno foi "A".
+<h4>Resumo: O algoritmo deve mostrar na tela o aproveitamento do aluno de acordo com a sua média de notas.Pede ao usuário as duas notas do aluno. O algoritmo deve calcular a média das notas e mostrar o resultado depois deve definir o aproveitamento do aluno com base na média. Se o aproveitamento for menor ou igual a 5 ele teve aprovetamento "F", se a nota for maior que 5 e menor ou igual a 6 então o aluno teve aproveitamento igual a"E", se a nota for maior que 6 e menor ou igual a 7 então o aluno teve aproveitamento igual a"D", se a nota for maior que 7 e menor ou igual a 8 então o aluno teve aproveitamento igual a"C", se a nota for maior que 8 e menor ou igual a 9 então o aluno teve aproveitamento igual a "B", senão,  o aproveitamento do aluno foi "A".</h4>
 
 * [Minha resolução](https://github.com/DevNicolask/Portugol/blob/main/Exercicios/Aula%2008%20-%20Exerc%C3%ADcios/D1%20-%20APROVEITAMENTOESCOLAR.ALG)
 ---
@@ -259,23 +259,23 @@ Lembre-se de pedir ao usuário seu peso em quilogramas (Kg) e sua altura em metr
 <h3>11.1 - Contar de 1 ate 10.</h3>
 <h4>Resumo: Escreva um algoritmo que conte de 10 a 1 e exiba cada número na tela. Utilize a estrutura de repetição "Para" para realizar a contagem.</h4>
 
-* [Minha resolução](https://github.com/DevNicolask/Portugol/blob/main/Exercicios/Aula%2011%20-%20Exerc%C3%ADcios/01%20-%20CONTARDE1ATE10.ALG)
+* [Minha resolução](https://github.com/DevNicolask/Portugol/blob/main/Exercicios/Aula%2011%20-%20Exerc%C3%ADcios/01%20-%20CONTARDE10ATE1.ALG)
 ---
 <!--Exercício 02 da aula 11-->
-<h3>11.2 - Conte de 10 até 0.</h3>
-<h4>Resumo:.</h4>
+<h3>11.2 - Números Pares Decrescentes.</h3>
+<h4>Resumo: Escreva um algoritmo que mostre os números pares menores que o número digitado de forma decrescente na tela. Se for ímpar, o programa deve ajustar o número para o menor número par mais próximo (subtraindo 1) e, em seguida, exibir uma sequência de números pares decrescentes começando a partir desse número até 0, de 2 em 2 Utilizando a estrutura de repetição "Para", use "Passo -2" como parâmetro para a estrutura de repetição.</h4>
 
 * [Minha resolução](https://github.com/DevNicolask/Portugol/blob/main/Exercicios/Aula%2011%20-%20Exerc%C3%ADcios/02%20-%20NUMEROSPARES.ALG)
 ---
 <!--Exercício 03 da aula 11-->
 <h3>11.3 - Entre 0 e 10.</h3>
-<h4>Resumo:.</h4>
+<h4>Resumo: Escreva um algoritmo que solicita ao usuário digitar 6 números inteiros. O programa deve contar quantos desses números estão entre 0 e 10. Extra: Calcular a soma dos valores ímpares dentro desse intervalo.. Faça o desafio com a estrutura de repetição "Para".</h4>
 
 * [Minha resolução](https://github.com/DevNicolask/Portugol/blob/main/Exercicios/Aula%2011%20-%20Exerc%C3%ADcios/03%20-%20ENTRE0E10.ALG)
 ---
 <!--Exercício 04 da aula 11-->
 <h3>11.4 - Combinações.</h3>
-<h4>Resumo:.</h4>
+<h4>Resumo: Escreva um algoritmo que gera e exibe todas as combinações possíveis entre os números 1, 2 e 3, considerando todas as combinações de dois números.</h4>
 
 * [Minha resolução](https://github.com/DevNicolask/Portugol/blob/main/Exercicios/Aula%2011%20-%20Exerc%C3%ADcios/04%20-%20COMBINA%C3%87%C3%95ES.ALG)
 
@@ -288,13 +288,13 @@ Lembre-se de pedir ao usuário seu peso em quilogramas (Kg) e sua altura em metr
 <!--Início dos desafios da Aula 11-->
 <!--Desafio 01 da aula 11-->
 <h3>11.5 - Sequência de Fibonacci.</h3> 
-<h4>Resumo: .</h4>
+<h4>Resumo: Escreva um algoritmo que gera e exibe os primeiros 15 números da sequência de Fibonacci. A sequência de Fibonacci começa com os números 0 e 1, e cada número subsequente é a soma dos dois anteriores. Os  números da sequência de Fibonacci que devem aparecer, no final, no terminal são: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233 e 377. Ultilize a estrutura de repetição "Para" pra resolver o exercício.</h4>
 
 * [Minha resolução](https://github.com/DevNicolask/Portugol/blob/main/Exercicios/Aula%2011%20-%20Exerc%C3%ADcios/D1%20-%20SEQU%C3%8ANCIADEFIBONACCI.ALG)
 ---
 <!--Desafio 02 da aula 11-->
 <h3>11.6 - Analizador de Valores.</h3> 
-<h4>Resumo:.</h4>
+<h4>Resumo: Escreva um algoritmo que solicita ao usuário digitar 5 números inteiros, depois o programa deve realizar as seguintes análises; calcular e exibir a soma dos valores, calcular e exibir a média dos valores, contar e exibir quantos valores são múltiplos de 5, contar e exibir quantos valores são nulos (igual a 0), calcular e exibir a soma dos valores pares. Deois, o programa deve exibir na tela uma listagem com todos esses valores.</h4>
 
 * [Minha resolução](https://github.com/DevNicolask/Portugol/blob/main/Exercicios/Aula%2011%20-%20Exerc%C3%ADcios/D2%20-%20ANALIZADORDEVALORES.ALG)
 <!--Fim dos desafios da Aula 11-->
